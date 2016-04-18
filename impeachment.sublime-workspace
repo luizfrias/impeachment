@@ -1,0 +1,1651 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max_votos_por_estado"
+			],
+			[
+				"e",
+				"el_id"
+			],
+			[
+				"dra",
+				"draw_votos"
+			],
+			[
+				"data",
+				"data_a_favor"
+			],
+			[
+				"voto",
+				"votos_por_regiao_normalizado"
+			],
+			[
+				"ESTAD",
+				"ESTADOS"
+			],
+			[
+				"vo",
+				"votos_por_estado"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"C",
+				"ConfusionMatrix"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"vla",
+				"value"
+			],
+			[
+				"dr",
+				"draw_pizza"
+			],
+			[
+				"init",
+				"init_voto_por_partido"
+			],
+			[
+				"Tr",
+				"TreeMap"
+			],
+			[
+				"ESTADOS_",
+				"ESTADOS_POR_REGIAO"
+			],
+			[
+				"ES",
+				"ESTADOS"
+			],
+			[
+				"cen",
+				"CENTRO-OESTE"
+			],
+			[
+				"sul",
+				"SUL"
+			],
+			[
+				"nor",
+				"NORDESTE"
+			],
+			[
+				"ESTA",
+				"ESTADOS_POR_SIGLA"
+			],
+			[
+				"map",
+				"map_data"
+			],
+			[
+				"NOR",
+				"NORDESTE"
+			],
+			[
+				"S",
+				"SUL"
+			],
+			[
+				"SU",
+				"SUDESTE"
+			],
+			[
+				"NR",
+				"NORTE"
+			],
+			[
+				"CE",
+				"CENTRO-OESTE"
+			],
+			[
+				"ini",
+				"init_voto_por_regiao"
+			],
+			[
+				"voo",
+				"votos_por_regiao"
+			],
+			[
+				"get",
+				"get_estado_uf"
+			],
+			[
+				"votos",
+				"votos_por_estado"
+			],
+			[
+				"n",
+				"n_votos_normalized"
+			],
+			[
+				"PA",
+				"PAULO"
+			],
+			[
+				"pro",
+				"properties"
+			],
+			[
+				"selec",
+				"selectAll"
+			],
+			[
+				"topic",
+				"topic_data"
+			],
+			[
+				"res",
+				"rest_method	statement"
+			],
+			[
+				"has",
+				"has_data	function"
+			],
+			[
+				"no",
+				"no_data	statement"
+			],
+			[
+				"sm",
+				"sm_obj	statement"
+			],
+			[
+				"time",
+				"timeline_data"
+			],
+			[
+				"News",
+				"NewsTopicsSubmoduleManager	class"
+			],
+			[
+				"news",
+				"news_topics_submodule	module"
+			],
+			[
+				"New",
+				"NewsTimeseriesSubmoduleManager	class"
+			],
+			[
+				"new",
+				"news_timeseries_submodule	module"
+			],
+			[
+				"Twitt",
+				"TwitterCountSubmoduleManager	class"
+			],
+			[
+				"twitt",
+				"twitter_count_submodule	module"
+			],
+			[
+				"abs",
+				"abstract"
+			],
+			[
+				"all",
+				"all_data	statement"
+			],
+			[
+				"su",
+				"submodules"
+			],
+			[
+				"Cont",
+				"ContainerModule	class"
+			],
+			[
+				"sta",
+				"statistics"
+			],
+			[
+				"ta",
+				"tab"
+			],
+			[
+				"name",
+				"namespace	statement"
+			],
+			[
+				"page",
+				"page__id"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"sec",
+				"section"
+			],
+			[
+				"dropw",
+				"dropdown-menu"
+			],
+			[
+				"Ta",
+				"table"
+			],
+			[
+				"parent",
+				"parent_div"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"pare",
+				"parent_div"
+			],
+			[
+				"fir",
+				"first_section"
+			],
+			[
+				"flip",
+				"flip-cont"
+			],
+			[
+				"fli",
+				"flip-cont"
+			],
+			[
+				"pan",
+				"panel"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"l",
+				"lsplitted"
+			],
+			[
+				"mod",
+				"module_namespace	param"
+			],
+			[
+				"modul",
+				"module_namespace	param"
+			],
+			[
+				"db",
+				"db_index"
+			],
+			[
+				"M",
+				"MPTTModel	import"
+			],
+			[
+				"ur",
+				"url_filters"
+			],
+			[
+				"en",
+				"ensure_unicode	function"
+			],
+			[
+				"utf",
+				"utf-8"
+			],
+			[
+				"tem",
+				"templates	statement"
+			],
+			[
+				"tab",
+				"tab_id"
+			],
+			[
+				"curr",
+				"current_tab"
+			],
+			[
+				"return",
+				"return_body"
+			],
+			[
+				"ret",
+				"return_body	statement"
+			],
+			[
+				"Top",
+				"TopicsModule"
+			],
+			[
+				"fu",
+				"fullscreen"
+			],
+			[
+				"panel",
+				"panel-body"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"add",
+				"add_fullscreen_button"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Term",
+				"TermsModule"
+			],
+			[
+				"T",
+				"TermsModule"
+			],
+			[
+				"loa",
+				"loaded"
+			],
+			[
+				"Load",
+				"Loading"
+			],
+			[
+				"relo",
+				"reload_panel"
+			],
+			[
+				"str",
+				"structure"
+			],
+			[
+				"tabs",
+				"tabs_to_disable	statement"
+			],
+			[
+				"load",
+				"load_modules"
+			],
+			[
+				"ob",
+				"object_id"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"modu",
+				"modules"
+			],
+			[
+				"mo",
+				"modules"
+			],
+			[
+				"Pag",
+				"PageTemplate	class"
+			],
+			[
+				"Page",
+				"PageForm	class"
+			],
+			[
+				"slide",
+				"slideUp"
+			],
+			[
+				"box",
+				"boxes	statement"
+			],
+			[
+				"cont",
+				"continue	keyword"
+			],
+			[
+				"aggregate_",
+				"aggregate_by_rows	function"
+			],
+			[
+				"col",
+				"col_size	statement"
+			],
+			[
+				"templ",
+				"template	param"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"ver",
+				"vertice_1_x	statement"
+			],
+			[
+				"dele",
+				"delete"
+			],
+			[
+				"Tab",
+				"TabBox	class"
+			],
+			[
+				"is",
+				"isinstance	function"
+			],
+			[
+				"lsi",
+				"list	class"
+			],
+			[
+				"agg",
+				"aggregate	function"
+			],
+			[
+				"bo",
+				"boxes	param"
+			],
+			[
+				"re",
+				"render_page"
+			],
+			[
+				"to",
+				"to_aggregate	statement"
+			],
+			[
+				"rende",
+				"render_tab"
+			],
+			[
+				"inter",
+				"intervals	statement"
+			],
+			[
+				"asse",
+				"assertEqual"
+			],
+			[
+				"def",
+				"defaultdict	import"
+			],
+			[
+				"box_r",
+				"box_rend	statement"
+			],
+			[
+				"Mod",
+				"Module	class"
+			],
+			[
+				"veri",
+				"vertice_2_y"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 7521,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/examples.css",
+			"settings":
+			{
+				"buffer_size": 932,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/index.js",
+			"settings":
+			{
+				"buffer_size": 15654,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/votos.js",
+			"settings":
+			{
+				"buffer_size": 81459,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/lfrias/Dropbox/dev/impeachment/resources",
+		"/Users/lfrias/Dropbox/dev/impeachment/js"
+	],
+	"file_history":
+	[
+		"/Users/lfrias/Dropbox/dev/impeachment/css/colorbrewer.css",
+		"/Users/lfrias/Dropbox/dev/impeachment/resources/dados.csv",
+		"/Users/lfrias/Dropbox/dev/impeachment/js/colorbrewer.js",
+		"/Users/lfrias/Dropbox/dev/impeachment/resources/dados.json",
+		"/Users/lfrias/Dropbox/dev/impeachment/resources/dados_com_voto.json",
+		"/Users/lfrias/Dropbox/dev/impeachment/js/votos.js",
+		"/Users/lfrias/Dropbox/dev/impeachment/index.html",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/twitter_count_submodule/db.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/news_topics_submodule/db.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/news_timeseries_submodule/db.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/twitter_heatmap/db.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/locations/db.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/locations/form.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/twitter_terms/db.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/sources/form.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/sources/manager.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/__init__.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/management/commands/sync_modules.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/twitter_count_submodule/form.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/news_topics_submodule/form.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/news_topics_submodule/manager.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/news_timeseries_submodule/form.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/news_timeseries_submodule/manager.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/topics/db.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/terms_by_evaluation/db.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/management/commands/create_module.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/terms_by_evaluation/__init__.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/terms/db.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/decorators.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/twitter_hashtags/db.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/reclameaqui_messages/db.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/tests/tests_models.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/template.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/static/twist/js/twist.entity.topic.detail.js",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templates/twist/modules/ombudsman_location_module.html",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templates/twist/modules/ombudsman_topics_module.html",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templates/twist/modules/ombudsman_companies_module.html",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templates/twist/modules/terms_module.html",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templates/twist/modules/ombudsman_terms_module.html",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templates/twist/modules/ombudsman_messages_module.html",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/news/db.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templates/twist/modules/topics_module.html",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templates/twist/modules/twitter_terms_module.html",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templates/twist/modules/twitter_locations_coord_module.html",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templates/twist/modules/sources_module.html",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templates/twist/modules/ranking_module.html",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templates/twist/modules/twitter_tweets_module.html",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templates/twist/modules/twitter_top_user.html",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templates/twist/modules/twitter_top_hashtags.html",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templates/twist/modules/news_module.html",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/views/page_detail.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/terms/manager.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/static/twist/css/twist.entity.topic.detail.css",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/static/twist/css/twist.entity.graph.detail.css",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templates/twist/edit-page.html",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/static/twist/css/style.css",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templates/twist/base.html",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templates/twist/modules/locations_coord_module.html",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/siteconfig/deploy_envs/defaults.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/static/twist/js/jquery.flip.js",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/helpers.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/ranking/manager.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/locations/manager.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templates/twist/modules/relations_module.html",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/relations/manager.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/relations/__init__.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/core.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/namespace.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/migrations/0014_termsbyevaluation.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/siteconfig/settings.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/__init__.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/static/twist/js/TWIST.js",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/siteconfig/log/twist.log",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/rest_api.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/views/edit_page.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/views/services_status.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/views/module_stats.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templates/twist/entity_topic_detail.html",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templates/twist/snippets/filters.html",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/reclameaqui_topics/db.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/static/twist/js/twist.entity.graph.detail.js",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/siteconfig/deploy_envs/stage.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/static/twist/js/twist-functions.js",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/static/twist/js/twist.entity.detail.js",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/static/twist/js/twist.base.js",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/tests/tests_template.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/tests/tests_views.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/twitter_tweets/manager.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/page.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/management/commands/assign_template.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templatetags/panel_tags.py",
+		"/Users/lfrias/Downloads/s.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/views/load_module_view.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/views/auth.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/views/authorized_view.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/views/landing_page.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/tests/views/tests_date_range.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/views/__init__.py",
+		"/Users/lfrias/Google Drive/Faculdade/comp2/aula-interface.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/management/commands/template.template",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/news_relation_2/db.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/management/commands/db.template",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/management/commands/form.template",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/management/commands/init.template",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/management/commands/manager.template",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/twitter_topusers/manager.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/twitter_terms/manager.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/twitter_heatmap/manager.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/twitter_hashtags/manager.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/topics/manager.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/terms_by_evaluation/manager.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/reclameaqui_wordcloud/manager.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/reclameaqui_topics/manager.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/reclameaqui_messages/manager.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/reclameaqui_location/manager.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/reclameaqui_companies/manager.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/news_relation/manager.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/news/manager.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/twitter_topusers/form.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/twitter_topusers/db.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/twitter_tweets/db.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/reclameaqui_wordcloud/db.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/reclameaqui_location/db.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/reclameaqui_companies/db.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/reclameaqui_messages/__init__.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/terms_by_evaluation/form.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/twitter_tweets/__init__.py",
+		"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/models/modules/twitter_topusers/__init__.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/lfrias/Dropbox/dev/twist_bi_dashboard/twist/templates/twist"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"partido\": \"PT\"",
+			"0",
+			"},",
+			"FIELD4",
+			"FIELD3",
+			"FIELD2",
+			"FIELD1",
+			"REST ",
+			"22",
+			"console",
+			"765",
+			"error",
+			"500",
+			"{{ d",
+			"request",
+			"pagetempla",
+			"from_date",
+			"push_s",
+			"add_fi",
+			"add_f",
+			"add_fil",
+			"add_filters",
+			"add_filter",
+			"add_fi",
+			"is_name",
+			"create_html",
+			"add_filter",
+			"add_f",
+			"Context",
+			"filters",
+			"add_filter",
+			"add",
+			"add_filter",
+			"load_filters",
+			"ensure_uni",
+			"Initial fil",
+			"QueryString",
+			"Initial filter",
+			"get_data",
+			"QueryStrin",
+			"Initial fil",
+			"locations",
+			"OPAA",
+			"location",
+			"decode",
+			"encode",
+			"enable",
+			"click",
+			"console.log",
+			"contains",
+			"unblock",
+			"title_terms",
+			"reload_mod",
+			"filter.new",
+			"calendar",
+			"add_filter",
+			"filter.new",
+			"_create_html",
+			"add_filter",
+			"push_state",
+			"add_filter",
+			"add_filters",
+			"obje",
+			"inh60",
+			"600",
+			"container",
+			"container-re",
+			"object_",
+			"resize",
+			"FullScreen",
+			"fullscre",
+			"tab.loaded",
+			"update_ra",
+			"tab",
+			"Module",
+			"Menu",
+			"T.filters",
+			"trigger",
+			"TwistEn",
+			"trigger",
+			"console",
+			"reload_",
+			"load_modules",
+			"reload_p",
+			"news_load",
+			"trigger",
+			"news_loaded",
+			"news_load",
+			"load_module",
+			"load_mod",
+			"filters",
+			"twist.filter",
+			"console",
+			"load_tab",
+			"tabs_load",
+			"load_tab",
+			"tabs_load",
+			"load_tab",
+			"twist.modules",
+			"module.loaded",
+			"load_modules",
+			"'\n",
+			"page.loaded",
+			"twist.modules",
+			"load_modules",
+			"load_modu",
+			"consol",
+			"hash",
+			"twist.page.tab",
+			"init",
+			"get_modules",
+			"load_modu",
+			"conso",
+			"enable-mod",
+			"set_sw",
+			"swi",
+			")]\n",
+			"label",
+			"hidden_t",
+			"get_mod",
+			"label",
+			"filters",
+			"url_id",
+			"url_",
+			"template",
+			"assign",
+			"request.",
+			"push_sta"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"n_ocorrencias",
+			"uf",
+			"partido",
+			"deputado",
+			"tab_id",
+			"TwistPanel",
+			"Widget",
+			"widget",
+			"Widget"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/lfrias/Dropbox/dev/impeachment/resources"
+		},
+		{
+			"path": "/Users/lfrias/Dropbox/dev/impeachment/imgs"
+		},
+		{
+			"path": "/Users/lfrias/Dropbox/dev/impeachment/css"
+		},
+		{
+			"path": "/Users/lfrias/Dropbox/dev/impeachment/fonts"
+		},
+		{
+			"path": "/Users/lfrias/Dropbox/dev/impeachment/js"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7521,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5109,
+								5109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/examples.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								537,
+								537
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/CSS (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 25.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "js/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9176,
+								9176
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3619.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/votos.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 81459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97,
+								98
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.381210679662,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"colo",
+				"css/colorbrewer.css"
+			],
+			[
+				"csv",
+				"resources/dados.csv"
+			],
+			[
+				"color",
+				"js/colorbrewer.js"
+			],
+			[
+				"dad",
+				"resources/dados.json"
+			],
+			[
+				"dado",
+				"resources/dados_com_voto.json"
+			],
+			[
+				"voto",
+				"js/votos.js"
+			],
+			[
+				"exa",
+				"css/examples.css"
+			],
+			[
+				"twitter_co",
+				"twist/models/modules/twitter_count_submodule/db.py"
+			],
+			[
+				"news_topi",
+				"twist/models/modules/news_topics_submodule/db.py"
+			],
+			[
+				"news_tim",
+				"twist/models/modules/news_timeseries_submodule/db.py"
+			],
+			[
+				"news_time",
+				"twist/models/modules/news_timeseries_submodule/db.py"
+			],
+			[
+				"locations/fo",
+				"twist/models/modules/locations/form.py"
+			],
+			[
+				"modules/twitter",
+				"twist/models/modules/twitter_heatmap/db.py"
+			],
+			[
+				"modes/modules/loca",
+				"twist/models/modules/locations/db.py"
+			],
+			[
+				"modules/twitter_terms",
+				"twist/models/modules/twitter_terms/db.py"
+			],
+			[
+				"modules/twitt",
+				"twist/models/modules/twitter_count_submodule/db.py"
+			],
+			[
+				"modules/sou",
+				"twist/models/modules/sources/form.py"
+			],
+			[
+				"modules/so",
+				"twist/models/modules/sources/manager.py"
+			],
+			[
+				"twitter_cou",
+				"twist/models/modules/twitter_count_submodule/db.py"
+			],
+			[
+				"sync",
+				"twist/management/commands/sync_modules.py"
+			],
+			[
+				"topics",
+				"twist/models/modules/topics/db.py"
+			],
+			[
+				"twitter_c",
+				"twist/models/modules/twitter_count_submodule/form.py"
+			],
+			[
+				"news_topics",
+				"twist/models/modules/news_topics_submodule/form.py"
+			],
+			[
+				"news_top",
+				"twist/models/modules/news_topics_submodule/manager.py"
+			],
+			[
+				"news_times",
+				"twist/models/modules/news_timeseries_submodule/db.py"
+			],
+			[
+				"terms_b",
+				"twist/models/modules/terms_by_evaluation/db.py"
+			],
+			[
+				"create",
+				"twist/management/commands/create_module.py"
+			],
+			[
+				"terms_by_",
+				"twist/models/modules/terms_by_evaluation/__init__.py"
+			],
+			[
+				"models_",
+				"twist/models/modules/__init__.py"
+			],
+			[
+				"twist/models/modul",
+				"twist/models/modules/__init__.py"
+			],
+			[
+				"terms_by",
+				"twist/models/modules/terms_by_evaluation/db.py"
+			],
+			[
+				"decora",
+				"twist/decorators.py"
+			],
+			[
+				"models/modules/twitter",
+				"twist/models/modules/twitter_hashtags/db.py"
+			],
+			[
+				"models/modules/tw",
+				"twist/models/modules/twitter_terms/db.py"
+			],
+			[
+				"modules/term",
+				"twist/models/modules/terms/db.py"
+			],
+			[
+				"reclameaqui_mess",
+				"twist/models/modules/reclameaqui_messages/db.py"
+			],
+			[
+				"twitter_terms",
+				"twist/models/modules/twitter_terms/db.py"
+			],
+			[
+				"modules/top",
+				"twist/models/modules/topics/db.py"
+			],
+			[
+				"tests_",
+				"twist/tests/tests_models.py"
+			],
+			[
+				"tem",
+				"twist/models/template.py"
+			],
+			[
+				"twist.",
+				"twist/static/twist/js/twist.entity.topic.detail.js"
+			],
+			[
+				"topic",
+				"twist/templates/twist/modules/topics_module.html"
+			],
+			[
+				"ombu",
+				"twist/templates/twist/modules/ombudsman_topics_module.html"
+			],
+			[
+				"omb",
+				"twist/templates/twist/modules/ombudsman_location_module.html"
+			],
+			[
+				"om",
+				"twist/templates/twist/modules/ombudsman_messages_module.html"
+			],
+			[
+				"term",
+				"twist/templates/twist/modules/terms_module.html"
+			],
+			[
+				"modules/news",
+				"twist/models/modules/news/db.py"
+			],
+			[
+				"modules/topi",
+				"twist/models/modules/topics/db.py"
+			],
+			[
+				"twitter_ter",
+				"twist/templates/twist/modules/twitter_terms_module.html"
+			],
+			[
+				"twitter_loca",
+				"twist/templates/twist/modules/twitter_locations_coord_module.html"
+			],
+			[
+				"sour",
+				"twist/templates/twist/modules/sources_module.html"
+			],
+			[
+				"rankin",
+				"twist/templates/twist/modules/ranking_module.html"
+			],
+			[
+				"terms",
+				"twist/templates/twist/modules/terms_module.html"
+			],
+			[
+				"twitter_",
+				"twist/templates/twist/modules/twitter_locations_coord_module.html"
+			],
+			[
+				"twitter",
+				"twist/templates/twist/modules/twitter_tweets_module.html"
+			],
+			[
+				"news",
+				"twist/templates/twist/modules/news_module.html"
+			],
+			[
+				"templ",
+				"twist/models/template.py"
+			],
+			[
+				"modules/terms",
+				"twist/models/modules/terms/db.py"
+			],
+			[
+				"twist.entity.top",
+				"twist/static/twist/js/twist.entity.topic.detail.js"
+			],
+			[
+				"twist.ent",
+				"twist/static/twist/css/twist.entity.graph.detail.css"
+			],
+			[
+				"twist.en",
+				"twist/static/twist/js/twist.entity.topic.detail.js"
+			],
+			[
+				"edit",
+				"twist/templates/twist/edit-page.html"
+			],
+			[
+				"style",
+				"twist/static/twist/css/style.css"
+			],
+			[
+				"base",
+				"twist/templates/twist/base.html"
+			],
+			[
+				"loca",
+				"twist/templates/twist/modules/locations_coord_module.html"
+			],
+			[
+				"top",
+				"twist/templates/twist/modules/topics_module.html"
+			],
+			[
+				"ra",
+				"twist/templates/twist/modules/ranking_module.html"
+			],
+			[
+				"defa",
+				"siteconfig/deploy_envs/defaults.py"
+			],
+			[
+				"jquery.fl",
+				"twist/static/twist/js/jquery.flip.js"
+			],
+			[
+				"help",
+				"twist/helpers.py"
+			],
+			[
+				"terms/",
+				"twist/models/modules/terms/manager.py"
+			],
+			[
+				"ter",
+				"twist/templates/twist/modules/terms_module.html"
+			],
+			[
+				"locations/",
+				"twist/models/modules/locations/manager.py"
+			],
+			[
+				"relation",
+				"twist/templates/twist/modules/relations_module.html"
+			],
+			[
+				"rela",
+				"twist/templates/twist/modules/relations_module.html"
+			],
+			[
+				"relations",
+				"twist/models/modules/relations/manager.py"
+			],
+			[
+				"models/",
+				"twist/models/modules/__init__.py"
+			],
+			[
+				"log",
+				"siteconfig/log/twist.log"
+			],
+			[
+				"migrations",
+				"twist/migrations/0014_termsbyevaluation.py"
+			],
+			[
+				"setting",
+				"siteconfig/settings.py"
+			],
+			[
+				"models",
+				"twist/models/__init__.py"
+			],
+			[
+				"core",
+				"twist/models/modules/core.py"
+			],
+			[
+				"twis",
+				"twist/static/twist/js/TWIST.js"
+			],
+			[
+				"page",
+				"twist/views/page_detail.py"
+			],
+			[
+				"twist/hel",
+				"twist/helpers.py"
+			],
+			[
+				"api",
+				"twist/rest_api.py"
+			],
+			[
+				"ser",
+				"twist/views/services_status.py"
+			],
+			[
+				"servic",
+				"twist/views/services_status.py"
+			],
+			[
+				"views/mo",
+				"twist/views/module_stats.py"
+			],
+			[
+				"enti",
+				"twist/templates/twist/entity_topic_detail.html"
+			],
+			[
+				"news/d",
+				"twist/models/modules/news/db.py"
+			],
+			[
+				"terms/d",
+				"twist/models/modules/terms/db.py"
+			],
+			[
+				"terms_o",
+				"twist/templates/twist/modules/terms_module.html"
+			],
+			[
+				"filter",
+				"twist/templates/twist/snippets/filters.html"
+			],
+			[
+				"ombus",
+				"twist/templates/twist/modules/ombudsman_terms_module.html"
+			],
+			[
+				"reclameaqui_to",
+				"twist/models/modules/reclameaqui_topics/db.py"
+			],
+			[
+				"news/",
+				"twist/models/modules/news/db.py"
+			],
+			[
+				"views/page",
+				"twist/views/page_detail.py"
+			],
+			[
+				"grap",
+				"twist/static/twist/js/twist.entity.graph.detail.js"
+			],
+			[
+				"template.",
+				"twist/models/template.py"
+			],
+			[
+				"stage",
+				"siteconfig/deploy_envs/stage.py"
+			],
+			[
+				"settings",
+				"siteconfig/settings.py"
+			],
+			[
+				"rest",
+				"twist/rest_api.py"
+			],
+			[
+				"news/db",
+				"twist/models/modules/news/db.py"
+			],
+			[
+				"twitt",
+				"twist/templates/twist/modules/twitter_locations_coord_module.html"
+			],
+			[
+				"gra",
+				"twist/static/twist/js/twist.entity.graph.detail.js"
+			],
+			[
+				"graph.",
+				"twist/static/twist/js/twist.entity.graph.detail.js"
+			],
+			[
+				"sou",
+				"twist/templates/twist/modules/sources_module.html"
+			],
+			[
+				"graph.de",
+				"twist/static/twist/js/twist.entity.graph.detail.js"
+			],
+			[
+				"relat",
+				"twist/templates/twist/modules/relations_module.html"
+			],
+			[
+				"topi",
+				"twist/templates/twist/modules/topics_module.html"
+			],
+			[
+				"entity",
+				"twist/templates/twist/entity_topic_detail.html"
+			],
+			[
+				"twist-fun",
+				"twist/static/twist/js/twist-functions.js"
+			],
+			[
+				"twist.base",
+				"twist/static/twist/js/twist.base.js"
+			],
+			[
+				"ran",
+				"twist/templates/twist/modules/ranking_module.html"
+			],
+			[
+				"locations_",
+				"twist/templates/twist/modules/locations_coord_module.html"
+			],
+			[
+				"sources",
+				"twist/templates/twist/modules/sources_module.html"
+			],
+			[
+				"entit",
+				"twist/static/twist/css/twist.entity.topic.detail.css"
+			],
+			[
+				"test_vi",
+				"twist/tests/tests_views.py"
+			],
+			[
+				"topics/d",
+				"twist/models/modules/topics/db.py"
+			],
+			[
+				"templates/mo",
+				"twist/templates/twist/modules/terms_module.html"
+			],
+			[
+				"page_de",
+				"twist/views/page_detail.py"
+			],
+			[
+				"twist",
+				"twist/static/twist/js/TWIST.js"
+			],
+			[
+				"mana",
+				"twist/models/modules/twitter_tweets/manager.py"
+			],
+			[
+				"modules/__",
+				"twist/models/modules/__init__.py"
+			],
+			[
+				"db.p",
+				"twist/models/modules/news/db.py"
+			],
+			[
+				"models/mod",
+				"twist/models/modules/__init__.py"
+			],
+			[
+				"ma",
+				"twist/models/modules/twitter_tweets/manager.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 564.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 68.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

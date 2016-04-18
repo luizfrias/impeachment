@@ -1,0 +1,3080 @@
+[
+  {
+    "deputado":"Abel Mesquita Jr. (DEM-RR)",
+    "partido":"DEM",
+    "uf":"RR",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Carlos Andrade (PHS-RR)",
+    "partido":"PHS",
+    "uf":"RR",
+    "n_ocorrencias":"4"
+  },
+  {
+    "deputado":"Edio Lopes (PR-RR)",
+    "partido":"PR",
+    "uf":"RR",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Hiran Gonçalves (PP-RR)",
+    "partido":"PP",
+    "uf":"RR",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Jhonatan de Jesus (PRB-RR)",
+    "partido":"PRB",
+    "uf":"RR",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Maria Helena (PSB-RR)",
+    "partido":"PSB",
+    "uf":"RR",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Remídio Monai (PR-RR)",
+    "partido":"PR",
+    "uf":"RR",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Shéridan (PSDB-RR)",
+    "partido":"PSDB",
+    "uf":"RR",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Afonso Hamm (PP-RS)",
+    "partido":"PP",
+    "uf":"RS",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Afonso Motta (PDT-RS)",
+    "partido":"PDT",
+    "uf":"RS",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Alceu Moreira (PMDB-RS)",
+    "partido":"PMDB",
+    "uf":"RS",
+    "n_ocorrencias":"4"
+  },
+  {
+    "deputado":"Bohn Gass (PT-RS)",
+    "partido":"PT",
+    "uf":"RS",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Carlos Gomes (PRB-RS)",
+    "partido":"PRB",
+    "uf":"RS",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Covatti Filho (PP-RS)",
+    "partido":"PP",
+    "uf":"RS",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Danrlei de Deus Hinterholz (PSD-RS)",
+    "partido":"PSD",
+    "uf":"RS",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Darcísio Perondi (PMDB-RS)",
+    "partido":"PMDB",
+    "uf":"RS",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Giovani Cherini (PDT-RS)",
+    "partido":"PDT",
+    "uf":"RS",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Heitor Schuch (PSB-RS)",
+    "partido":"PSB",
+    "uf":"RS",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Henrique Fontana (PT-RS)",
+    "partido":"PT",
+    "uf":"RS",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Jerônimo Goergen (PP-RS)",
+    "partido":"PP",
+    "uf":"RS",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"João Derly (REDE-RS)",
+    "partido":"REDE",
+    "uf":"RS",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"José Fogaça (PMDB-RS)",
+    "partido":"PMDB",
+    "uf":"RS",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"José Otávio Germano (PP-RS)",
+    "partido":"PP",
+    "uf":"RS",
+    "n_ocorrencias":"4"
+  },
+  {
+    "deputado":"Jose Stédile (PSB-RS)",
+    "partido":"PSB",
+    "uf":"RS",
+    "n_ocorrencias":"8"
+  },
+  {
+    "deputado":"Luis Carlos Heinze (PP-RS)",
+    "partido":"PP",
+    "uf":"RS",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Luiz Carlos Busato (PTB-RS)",
+    "partido":"PTB",
+    "uf":"RS",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Marco Maia (PT-RS)",
+    "partido":"PT",
+    "uf":"RS",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Marcon (PT-RS)",
+    "partido":"PT",
+    "uf":"RS",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Maria do Rosário (PT-RS)",
+    "partido":"PT",
+    "uf":"RS",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Mauro Pereira (PMDB-RS)",
+    "partido":"PMDB",
+    "uf":"RS",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Nelson Marchezan Junior (PSDB-RS)",
+    "partido":"PSDB",
+    "uf":"RS",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Onyx Lorenzoni (DEM-RS)",
+    "partido":"DEM",
+    "uf":"RS",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Osmar Terra (PMDB-RS)",
+    "partido":"PMDB",
+    "uf":"RS",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Paulo Pimenta (PT-RS)",
+    "partido":"PT",
+    "uf":"RS",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Pepe Vargas (PT-RS)",
+    "partido":"PT",
+    "uf":"RS",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Pompeo de Mattos (PDT-RS)",
+    "partido":"PDT",
+    "uf":"RS",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Renato Molling (PP-RS)",
+    "partido":"PP",
+    "uf":"RS",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Ronaldo Nogueira (PTB-RS)",
+    "partido":"PTB",
+    "uf":"RS",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Sérgio Moraes (PTB-RS)",
+    "partido":"PTB",
+    "uf":"RS",
+    "n_ocorrencias":"4"
+  },
+  {
+    "deputado":"Carmen Zanotto (PPS-SC)",
+    "partido":"PPS",
+    "uf":"SC",
+    "n_ocorrencias":"4"
+  },
+  {
+    "deputado":"Celso Maldaner (PMDB-SC)",
+    "partido":"PMDB",
+    "uf":"SC",
+    "n_ocorrencias":"4"
+  },
+  {
+    "deputado":"Cesar Souza (PSD-SC)",
+    "partido":"PSD",
+    "uf":"SC",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Décio Lima (PT-SC)",
+    "partido":"PT",
+    "uf":"SC",
+    "n_ocorrencias":"11"
+  },
+  {
+    "deputado":"Esperidião Amin (PP-SC)",
+    "partido":"PP",
+    "uf":"SC",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Geovania de Sá (PSDB-SC)",
+    "partido":"PSDB",
+    "uf":"SC",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"João Paulo Kleinübing (PSD-SC)",
+    "partido":"PSD",
+    "uf":"SC",
+    "n_ocorrencias":"19"
+  },
+  {
+    "deputado":"João Rodrigues (PSD-SC)",
+    "partido":"PSD",
+    "uf":"SC",
+    "n_ocorrencias":"5"
+  },
+  {
+    "deputado":"Jorge Boeira (PP-SC)",
+    "partido":"PP",
+    "uf":"SC",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Jorginho Mello (PR-SC)",
+    "partido":"PR",
+    "uf":"SC",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Marco Tebaldi (PSDB-SC)",
+    "partido":"PSDB",
+    "uf":"SC",
+    "n_ocorrencias":"27"
+  },
+  {
+    "deputado":"Mauro Mariani (PMDB-SC)",
+    "partido":"PMDB",
+    "uf":"SC",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Pedro Uczai (PT-SC)",
+    "partido":"PT",
+    "uf":"SC",
+    "n_ocorrencias":"13"
+  },
+  {
+    "deputado":"Rogério Peninha Mendonça (PMDB-SC)",
+    "partido":"PMDB",
+    "uf":"SC",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Ronaldo Benedet (PMDB-SC)",
+    "partido":"PMDB",
+    "uf":"SC",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Valdir Colatto (PMDB-SC)",
+    "partido":"PMDB",
+    "uf":"SC",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"André Abdon (PP-AP)",
+    "partido":"PP",
+    "uf":"AP",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Cabuçu Borges (PMDB-AP)",
+    "partido":"PMDB",
+    "uf":"AP",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Janete Capiberibe (PSB-AP)",
+    "partido":"PSB",
+    "uf":"AP",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Jozi Araújo (PTN-AP)",
+    "partido":"PTN",
+    "uf":"AP",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Marcos Reategui (PSD-AP)",
+    "partido":"PSD",
+    "uf":"AP",
+    "n_ocorrencias":"9"
+  },
+  {
+    "deputado":"Professora Marcivania (PC do B-AP)",
+    "partido":"PCdoB",
+    "uf":"AP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Roberto Góes (PDT-AP)",
+    "partido":"PDT",
+    "uf":"AP",
+    "n_ocorrencias":"25"
+  },
+  {
+    "deputado":"Vinicius Gurgel (PR-AP)",
+    "partido":"PR",
+    "uf":"AP",
+    "n_ocorrencias":"5"
+  },
+  {
+    "deputado":"Arnaldo Jordy (PPS-PA)",
+    "partido":"PPS",
+    "uf":"PA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Beto Faro (PT-PA)",
+    "partido":"PT",
+    "uf":"PA",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Beto Salame (PP-PA)",
+    "partido":"PP",
+    "uf":"PA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Delegado Éder Mauro (PSD-PA)",
+    "partido":"PSD",
+    "uf":"PA",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Edmilson Rodrigues (PSOL-PA)",
+    "partido":"PSOL",
+    "uf":"PA",
+    "n_ocorrencias":"4"
+  },
+  {
+    "deputado":"Elcione Barbalho (PMDB-PA)",
+    "partido":"PMDB",
+    "uf":"PA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Francisco Chapadinha (PTN-PA)",
+    "partido":"PTN",
+    "uf":"PA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Hélio Leite (DEM-PA)",
+    "partido":"DEM",
+    "uf":"PA",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Joaquim Passarinho (PSD-PA)",
+    "partido":"PSD",
+    "uf":"PA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"José Priante (PMDB-PA)",
+    "partido":"PMDB",
+    "uf":"PA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Josué Bengtson (PTB-PA)",
+    "partido":"PTB",
+    "uf":"PA",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Júlia Marinho (PSC-PA)",
+    "partido":"PSC",
+    "uf":"PA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Lúcio Vale (PR-PA)",
+    "partido":"PR",
+    "uf":"PA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Nilson Pinto (PSDB-PA)",
+    "partido":"PSDB",
+    "uf":"PA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Simone Morgado (PMDB-PA)",
+    "partido":"PMDB",
+    "uf":"PA",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Wladimir Costa (SD-PA)",
+    "partido":"SD",
+    "uf":"PA",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Zé Geraldo (PT-PA)",
+    "partido":"PT",
+    "uf":"PA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Alex Canziani (PTB-PR)",
+    "partido":"PTB",
+    "uf":"PR",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Alfredo Kaefer (PSL-PR)",
+    "partido":"PSL",
+    "uf":"PR",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Aliel Machado (REDE-PR)",
+    "partido":"REDE",
+    "uf":"PR",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Assis do Couto (PDT-PR)",
+    "partido":"PDT",
+    "uf":"PR",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Christiane de Souza Yared (PR-PR)",
+    "partido":"PR",
+    "uf":"PR",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Diego Garcia",
+    "partido":"PHS",
+    "uf":"PR",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Dilceu Sperafico (PP-PR)",
+    "partido":"PP",
+    "uf":"PR",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Enio Verri (PT-PR)",
+    "partido":"PT",
+    "uf":"PR",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Evandro Roman (PSD-PR)",
+    "partido":"PSD",
+    "uf":"PR",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Fernando Francischini (SD-PR)",
+    "partido":"SD",
+    "uf":"PR",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Giacobo (PR-PR)",
+    "partido":"PR",
+    "uf":"PR",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Hermes Parcianello (PMDB-PR)",
+    "partido":"PMDB",
+    "uf":"PR",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"João Arruda (PMDB-PR)",
+    "partido":"PMDB",
+    "uf":"PR",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Leandre (PV-PR)",
+    "partido":"PV",
+    "uf":"PR",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Leopoldo Meyer (PSB-PR)",
+    "partido":"PSB",
+    "uf":"PR",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Luciano Ducci (PSB-PR)",
+    "partido":"PSB",
+    "uf":"PR",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Luiz Carlos Hauly (PSDB-PR)",
+    "partido":"PSDB",
+    "uf":"PR",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Luiz Nishimori (PR-PR)",
+    "partido":"PR",
+    "uf":"PR",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Marcelo Belinati (PP-PR)",
+    "partido":"PP",
+    "uf":"PR",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Nelson Meurer (PP-PR)",
+    "partido":"PP",
+    "uf":"PR",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Nelson Padovani",
+    "partido":"PSDB",
+    "uf":"PR",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Osmar Serraglio (PMDB-PR)",
+    "partido":"PMDB",
+    "uf":"PR",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Paulo Martins",
+    "partido":"PSDB",
+    "uf":"PR",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Ricardo Barros (PP-PR)",
+    "partido":"PP",
+    "uf":"PR",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Rubens Bueno (PPS-PR)",
+    "partido":"PPS",
+    "uf":"PR",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Sandro Alex (PSD-PR)",
+    "partido":"PSD",
+    "uf":"PR",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Sergio Souza (PMDB-PR)",
+    "partido":"PMDB",
+    "uf":"PR",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Takayama (PSC-PR)",
+    "partido":"PSC",
+    "uf":"PR",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Toninho Wandscheer (PROS-PR)",
+    "partido":"PROS",
+    "uf":"PR",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Zeca Dirceu (PT-PR)",
+    "partido":"PT",
+    "uf":"PR",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Carlos Marun (PMDB-MS)",
+    "partido":"PMDB",
+    "uf":"MS",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Dagoberto (PDT-MS)",
+    "partido":"PDT",
+    "uf":"MS",
+    "n_ocorrencias":"4"
+  },
+  {
+    "deputado":"Elizeu Dionizio (PSDB-MS)",
+    "partido":"PSDB",
+    "uf":"MS",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Geraldo Resende (PSDB-MS)",
+    "partido":"PSDB",
+    "uf":"MS",
+    "n_ocorrencias":"4"
+  },
+  {
+    "deputado":"Mandetta (DEM-MS)",
+    "partido":"DEM",
+    "uf":"MS",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Tereza Cristina (PSB-MS)",
+    "partido":"PSB",
+    "uf":"MS",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Vander Loubet (PT-MS)",
+    "partido":"PT",
+    "uf":"MS",
+    "n_ocorrencias":"6"
+  },
+  {
+    "deputado":"Zeca do Pt (PT-MS)",
+    "partido":"PT",
+    "uf":"MS",
+    "n_ocorrencias":"7"
+  },
+  {
+    "deputado":"Alfredo Nascimento (PR-AM)",
+    "partido":"PR",
+    "uf":"AM",
+    "n_ocorrencias":"11"
+  },
+  {
+    "deputado":"Arthur Virgílio Bisneto (PSDB-AM)",
+    "partido":"PSDB",
+    "uf":"AM",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Átila Lins (PSD-AM)",
+    "partido":"PSD",
+    "uf":"AM",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Conceição Sampaio (PP-AM)",
+    "partido":"PP",
+    "uf":"AM",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Hissa Abrahão (PDT-AM)",
+    "partido":"PDT",
+    "uf":"AM",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Marcos Rotta (PMDB-AM)",
+    "partido":"PMDB",
+    "uf":"AM",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Pauderney Avelino (DEM-AM)",
+    "partido":"DEM",
+    "uf":"AM",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Silas Câmara (PRB-AM)",
+    "partido":"PRB",
+    "uf":"AM",
+    "n_ocorrencias":"4"
+  },
+  {
+    "deputado":"Expedito Netto (PSD-RO)",
+    "partido":"PSD",
+    "uf":"RO",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Lindomar Garçon (PRB-RO)",
+    "partido":"PRB",
+    "uf":"RO",
+    "n_ocorrencias":"5"
+  },
+  {
+    "deputado":"Lucio Mosquini (PMDB-RO)",
+    "partido":"PMDB",
+    "uf":"RO",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Luiz Cláudio (PR-RO)",
+    "partido":"PR",
+    "uf":"RO",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Marcos Rogério (DEM-RO)",
+    "partido":"DEM",
+    "uf":"RO",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Mariana Carvalho (PSDB-RO)",
+    "partido":"PSDB",
+    "uf":"RO",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Marinha Raupp (PMDB-RO)",
+    "partido":"PMDB",
+    "uf":"RO",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Nilton Capixaba (PTB-RO)",
+    "partido":"PTB",
+    "uf":"RO",
+    "n_ocorrencias":"5"
+  },
+  {
+    "deputado":"Alexandre Baldy (PTN-GO)",
+    "partido":"PTN",
+    "uf":"GO",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Célio Silveira (PSDB-GO)",
+    "partido":"PSDB",
+    "uf":"GO",
+    "n_ocorrencias":"6"
+  },
+  {
+    "deputado":"Daniel Vilela (PMDB-GO)",
+    "partido":"PMDB",
+    "uf":"GO",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Delegado Waldir (PR-GO)",
+    "partido":"PR",
+    "uf":"GO",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Fábio Sousa (PSDB-GO)",
+    "partido":"PSDB",
+    "uf":"GO",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Flávia Morais (PDT-GO)",
+    "partido":"PDT",
+    "uf":"GO",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Giuseppe Vecci (PSDB-GO)",
+    "partido":"PSDB",
+    "uf":"GO",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Heuler Cruvinel (PSD-GO)",
+    "partido":"PSD",
+    "uf":"GO",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"João Campos (PRB-GO)",
+    "partido":"PRB",
+    "uf":"GO",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Jovair Arantes (PTB-GO)",
+    "partido":"PTB",
+    "uf":"GO",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Lucas Vergilio (SD-GO)",
+    "partido":"SD",
+    "uf":"GO",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Magda Mofatto (PR-GO)",
+    "partido":"PR",
+    "uf":"GO",
+    "n_ocorrencias":"8"
+  },
+  {
+    "deputado":"Marcos Abrão (PPS-GO)",
+    "partido":"PPS",
+    "uf":"GO",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Pedro Chaves (PMDB-GO)",
+    "partido":"PMDB",
+    "uf":"GO",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Roberto Balestra (PP-GO)",
+    "partido":"PP",
+    "uf":"GO",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Rubens Otoni (PT-GO)",
+    "partido":"PT",
+    "uf":"GO",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Thiago Peixoto",
+    "partido":"PSD",
+    "uf":"GO",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Alberto Fraga (DEM-DF)",
+    "partido":"DEM",
+    "uf":"DF",
+    "n_ocorrencias":"7"
+  },
+  {
+    "deputado":"Augusto Carvalho (SD-DF)",
+    "partido":"SD",
+    "uf":"DF",
+    "n_ocorrencias":"7"
+  },
+  {
+    "deputado":"Erika Kokay (PT-DF)",
+    "partido":"PT",
+    "uf":"DF",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Izalci (PSDB-DF)",
+    "partido":"PSDB",
+    "uf":"DF",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Laerte Bessa (PR-DF)",
+    "partido":"PR",
+    "uf":"DF",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Rogério Rosso (PSD-DF)",
+    "partido":"PSD",
+    "uf":"DF",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Ronaldo Fonseca (PROS-DF)",
+    "partido":"PROS",
+    "uf":"DF",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Rôney Nemer (PP-DF)",
+    "partido":"PP",
+    "uf":"DF",
+    "n_ocorrencias":"9"
+  },
+  {
+    "deputado":"Alan Rick (PRB-AC)",
+    "partido":"PRB",
+    "uf":"AC",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Angelim (PT-AC)",
+    "partido":"PT",
+    "uf":"AC",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"César Messias (PSB-AC)",
+    "partido":"PSB",
+    "uf":"AC",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Flaviano Melo (PMDB-AC)",
+    "partido":"PMDB",
+    "uf":"AC",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Jéssica Sales (PMDB-AC)",
+    "partido":"PMDB",
+    "uf":"AC",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Leo de Brito (PT-AC)",
+    "partido":"PT",
+    "uf":"AC",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Rocha (PSDB-AC)",
+    "partido":"PSDB",
+    "uf":"AC",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Sibá Machado (PT-AC)",
+    "partido":"PT",
+    "uf":"AC",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Carlos Henrique Gaguim (PTN-TO)",
+    "partido":"PTN",
+    "uf":"TO",
+    "n_ocorrencias":"10"
+  },
+  {
+    "deputado":"César Halum (PRB-TO)",
+    "partido":"PRB",
+    "uf":"TO",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Dulce Miranda (PMDB-TO)",
+    "partido":"PMDB",
+    "uf":"TO",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Irajá Abreu (PSD-TO)",
+    "partido":"PSD",
+    "uf":"TO",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Josi Nunes (PMDB-TO)",
+    "partido":"PMDB",
+    "uf":"TO",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Lázaro Botelho (PP-TO)",
+    "partido":"PP",
+    "uf":"TO",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Professora Dorinha Seabra Rezende (DEM-TO",
+    "partido":"DEM",
+    "uf":"TO",
+    "n_ocorrencias":"12"
+  },
+  {
+    "deputado":"Vicentinho Júnior (PR-TO)",
+    "partido":"PR",
+    "uf":"TO",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Adilton Sachetti (PSB-MT)",
+    "partido":"PSB",
+    "uf":"MT",
+    "n_ocorrencias":"9"
+  },
+  {
+    "deputado":"Carlos Bezerra (PMDB-MT)",
+    "partido":"PMDB",
+    "uf":"MT",
+    "n_ocorrencias":"9"
+  },
+  {
+    "deputado":"Fabio Garcia (PSB-MT)",
+    "partido":"PSB",
+    "uf":"MT",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Nilson Leitão (PSDB-MT)",
+    "partido":"PSDB",
+    "uf":"MT",
+    "n_ocorrencias":"18"
+  },
+  {
+    "deputado":"Professor Victório Galli (PSC-MT)",
+    "partido":"PSC",
+    "uf":"MT",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Ságuas Moraes (PT-MT)",
+    "partido":"PT",
+    "uf":"MT",
+    "n_ocorrencias":"9"
+  },
+  {
+    "deputado":"Tampinha (PSD-MT)",
+    "partido":"PSD",
+    "uf":"MT",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Valtenir Pereira (PMDB-MT)",
+    "partido":"PMDB",
+    "uf":"MT",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Alex Manente (PPS-SP)",
+    "partido":"PPS",
+    "uf":"SP",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Alexandre Leite (DEM-SP)",
+    "partido":"DEM",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Ana Perugini (PT-SP)",
+    "partido":"PT",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Andres Sanchez (PT-SP)",
+    "partido":"PT",
+    "uf":"SP",
+    "n_ocorrencias":"5"
+  },
+  {
+    "deputado":"Antonio Bulhões (PRB-SP)",
+    "partido":"PRB",
+    "uf":"SP",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Arlindo Chinaglia (PT-SP)",
+    "partido":"PT",
+    "uf":"SP",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Arnaldo Faria de Sá (PTB-SP)",
+    "partido":"PTB",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Arnaldo Jardim (PPS-SP)",
+    "partido":"PPS",
+    "uf":"SP",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Baleia Rossi (PMDB-SP)",
+    "partido":"PMDB",
+    "uf":"SP",
+    "n_ocorrencias":"12"
+  },
+  {
+    "deputado":"Beto Mansur (PRB-SP)",
+    "partido":"PRB",
+    "uf":"SP",
+    "n_ocorrencias":"47"
+  },
+  {
+    "deputado":"Bruna Furlan (PSDB-SP)",
+    "partido":"PSDB",
+    "uf":"SP",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Bruno Covas (PSDB-SP)",
+    "partido":"PSDB",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Capitão Augusto (PR-SP)",
+    "partido":"PR",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Carlos Sampaio (PSDB-SP)",
+    "partido":"PSDB",
+    "uf":"SP",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Carlos Zarattini (PT-SP)",
+    "partido":"PT",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Celso Russomanno (PRB-SP)",
+    "partido":"PRB",
+    "uf":"SP",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Dr. Sinval Malheiros (PTN-SP)",
+    "partido":"PTN",
+    "uf":"SP",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Duarte Nogueira (PSDB-SP)",
+    "partido":"PSDB",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Edinho Araújo (PMDB-SP)",
+    "partido":"PMDB",
+    "uf":"SP",
+    "n_ocorrencias":"6"
+  },
+  {
+    "deputado":"Eduardo Bolsonaro (PSC-SP)",
+    "partido":"PSC",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Eduardo Cury (PSDB-SP)",
+    "partido":"PSDB",
+    "uf":"SP",
+    "n_ocorrencias":"15"
+  },
+  {
+    "deputado":"Eli Corrêa Filho (DEM-SP)",
+    "partido":"DEM",
+    "uf":"SP",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Evandro Gussi (PV-SP)",
+    "partido":"PV",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Fausto Pinato (PP-SP)",
+    "partido":"PP",
+    "uf":"SP",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Flavinho (PSB-SP)",
+    "partido":"PSB",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Floriano Pesaro",
+    "partido":"PSDB",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Gilberto Nascimento (PSC-SP)",
+    "partido":"PSC",
+    "uf":"SP",
+    "n_ocorrencias":"7"
+  },
+  {
+    "deputado":"Goulart (PSD-SP)",
+    "partido":"PSD",
+    "uf":"SP",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Guilherme Mussi (PP-SP)",
+    "partido":"PP",
+    "uf":"SP",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Herculano Passos (PSD-SP)",
+    "partido":"PSD",
+    "uf":"SP",
+    "n_ocorrencias":"19"
+  },
+  {
+    "deputado":"Ivan Valente (PSOL-SP)",
+    "partido":"PSOL",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Jefferson Campos (PSD-SP)",
+    "partido":"PSD",
+    "uf":"SP",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"João Paulo Papa (PSDB-SP)",
+    "partido":"PSDB",
+    "uf":"SP",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Jorge Tadeu Mudalen (DEM-SP)",
+    "partido":"DEM",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"José Mentor (PT-SP)",
+    "partido":"PT",
+    "uf":"SP",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Keiko Ota (PSB-SP)",
+    "partido":"PSB",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Luiz Lauro Filho (PSB-SP)",
+    "partido":"PSB",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Luiza Erundina (PSOL-SP)",
+    "partido":"PSOL",
+    "uf":"SP",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Major Olimpio (SD-SP)",
+    "partido":"SD",
+    "uf":"SP",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Mara Gabrilli (PSDB-SP)",
+    "partido":"PSDB",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Marcelo Squassoni (PRB-SP)",
+    "partido":"PRB",
+    "uf":"SP",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Marcio Alvino (PR-SP)",
+    "partido":"PR",
+    "uf":"SP",
+    "n_ocorrencias":"5"
+  },
+  {
+    "deputado":"Miguel Haddad (PSDB-SP)",
+    "partido":"PSDB",
+    "uf":"SP",
+    "n_ocorrencias":"6"
+  },
+  {
+    "deputado":"Miguel Lombardi (PR-SP)",
+    "partido":"PR",
+    "uf":"SP",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Milton Monti (PR-SP)",
+    "partido":"PR",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Missionário José Olimpio (DEM-SP)",
+    "partido":"DEM",
+    "uf":"SP",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Nelson Marquezelli (PTB-SP)",
+    "partido":"PTB",
+    "uf":"SP",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Nilto Tatto (PT-SP)",
+    "partido":"PT",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Orlando Silva (PC do B-SP)",
+    "partido":"PCdoB",
+    "uf":"SP",
+    "n_ocorrencias":"4"
+  },
+  {
+    "deputado":"Paulo Freire (PR-SP)",
+    "partido":"PR",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Paulo Maluf (PP-SP)",
+    "partido":"PP",
+    "uf":"SP",
+    "n_ocorrencias":"12"
+  },
+  {
+    "deputado":"Paulo Pereira da Silva (SD-SP)",
+    "partido":"SD",
+    "uf":"SP",
+    "n_ocorrencias":"10"
+  },
+  {
+    "deputado":"Paulo Teixeira (PT-SP)",
+    "partido":"PT",
+    "uf":"SP",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Pr. Marco Feliciano (PSC-SP)",
+    "partido":"PSC",
+    "uf":"SP",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Renata Abreu (PTN-SP)",
+    "partido":"PTN",
+    "uf":"SP",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Ricardo Izar (PP-SP)",
+    "partido":"PP",
+    "uf":"SP",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Ricardo Tripoli (PSDB-SP)",
+    "partido":"PSDB",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Roberto Alves (PRB-SP)",
+    "partido":"PRB",
+    "uf":"SP",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Roberto de Lucena (PV-SP)",
+    "partido":"PV",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Rodrigo Garcia (DEM-SP)",
+    "partido":"DEM",
+    "uf":"SP",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Samuel Moreira",
+    "partido":"PSDB",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Sérgio Reis (PRB-SP)",
+    "partido":"PRB",
+    "uf":"SP",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Silvio Torres (PSDB-SP)",
+    "partido":"PSDB",
+    "uf":"SP",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Tiririca (PR-SP)",
+    "partido":"PR",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Valmir Prascidelli (PT-SP)",
+    "partido":"PT",
+    "uf":"SP",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Vanderlei Macris (PSDB-SP)",
+    "partido":"PSDB",
+    "uf":"SP",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Vicente Candido (PT-SP)",
+    "partido":"PT",
+    "uf":"SP",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Vicentinho (PT-SP)",
+    "partido":"PT",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Vinicius Carvalho (PRB-SP)",
+    "partido":"PRB",
+    "uf":"SP",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Vitor Lippi (PSDB-SP)",
+    "partido":"PSDB",
+    "uf":"SP",
+    "n_ocorrencias":"11"
+  },
+  {
+    "deputado":"Alberto Filho (PMDB-MA)",
+    "partido":"PMDB",
+    "uf":"MA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Aluisio Mendes (PTN-MA)",
+    "partido":"PTN",
+    "uf":"MA",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"André Fufuca (PP-MA)",
+    "partido":"PP",
+    "uf":"MA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Cleber Verde (PRB-MA)",
+    "partido":"PRB",
+    "uf":"MA",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Eliziane Gama (PPS-MA)",
+    "partido":"PPS",
+    "uf":"MA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Hildo Rocha (PMDB-MA)",
+    "partido":"PMDB",
+    "uf":"MA",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"João Castelo (PSDB-MA)",
+    "partido":"PSDB",
+    "uf":"MA",
+    "n_ocorrencias":"11"
+  },
+  {
+    "deputado":"João Marcelo Souza (PMDB-MA)",
+    "partido":"PMDB",
+    "uf":"MA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"José Reinaldo (PSB-MA)",
+    "partido":"PSB",
+    "uf":"MA",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Junior Marreca (PEN-MA)",
+    "partido":"PEN",
+    "uf":"MA",
+    "n_ocorrencias":"12"
+  },
+  {
+    "deputado":"Juscelino Filho (DEM-MA)",
+    "partido":"DEM",
+    "uf":"MA",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Pedro Fernandes (PTB-MA)",
+    "partido":"PTB",
+    "uf":"MA",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Rubens Pereira Júnior (PC do B-MA)",
+    "partido":"PCdoB",
+    "uf":"MA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Sarney Filho (PV-MA)",
+    "partido":"PV",
+    "uf":"MA",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Victor Mendes (PSD-MA)",
+    "partido":"PSD",
+    "uf":"MA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Waldir Maranhão (PP-MA)",
+    "partido":"PP",
+    "uf":"MA",
+    "n_ocorrencias":"6"
+  },
+  {
+    "deputado":"Weverton Rocha (PDT-MA)",
+    "partido":"PDT",
+    "uf":"MA",
+    "n_ocorrencias":"7"
+  },
+  {
+    "deputado":"Zé Carlos (PT-MA)",
+    "partido":"PT",
+    "uf":"MA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Adail Carneiro",
+    "partido":"PP",
+    "uf":"CE",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Aníbal Gomes (PMDB-CE)",
+    "partido":"PMDB",
+    "uf":"CE",
+    "n_ocorrencias":"4"
+  },
+  {
+    "deputado":"Ariosto Holanda (PDT-CE)",
+    "partido":"PDT",
+    "uf":"CE",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Arnon Bezerra (PTB-CE)",
+    "partido":"PTB",
+    "uf":"CE",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Cabo Sabino (PR-CE)",
+    "partido":"PR",
+    "uf":"CE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Chico Lopes (PC do B-CE)",
+    "partido":"PCdoB",
+    "uf":"CE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Danilo Forte (PSB-CE)",
+    "partido":"PSB",
+    "uf":"CE",
+    "n_ocorrencias":"5"
+  },
+  {
+    "deputado":"Domingos Neto (PSD-CE)",
+    "partido":"PSD",
+    "uf":"CE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Genecias Noronha (SD-CE)",
+    "partido":"SD",
+    "uf":"CE",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Gorete Pereira (PR-CE)",
+    "partido":"PR",
+    "uf":"CE",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"José Airton Cirilo (PT-CE)",
+    "partido":"PT",
+    "uf":"CE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"José Guimarães (PT-CE)",
+    "partido":"PT",
+    "uf":"CE",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Leônidas Cristino (PDT-CE)",
+    "partido":"PDT",
+    "uf":"CE",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Luizianne Lins (PT-CE)",
+    "partido":"PT",
+    "uf":"CE",
+    "n_ocorrencias":"6"
+  },
+  {
+    "deputado":"Macedo (PP-CE)",
+    "partido":"PP",
+    "uf":"CE",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Moroni Torgan (DEM-CE)",
+    "partido":"DEM",
+    "uf":"CE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Moses Rodrigues (PMDB-CE)",
+    "partido":"PMDB",
+    "uf":"CE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Odorico Monteiro (PROS-CE)",
+    "partido":"PROS",
+    "uf":"CE",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Raimundo Gomes de Matos (PSDB-CE)",
+    "partido":"PSDB",
+    "uf":"CE",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Ronaldo Martins (PRB-CE)",
+    "partido":"PRB",
+    "uf":"CE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Vicente Arruda (PDT-CE)",
+    "partido":"PDT",
+    "uf":"CE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Vitor Valim (PMDB-CE)",
+    "partido":"PMDB",
+    "uf":"CE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Alessandro Molon (REDE-RJ)",
+    "partido":"REDE",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Alexandre Serfiotis (PMDB-RJ)",
+    "partido":"PMDB",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Alexandre Valle (PR-RJ)",
+    "partido":"PR",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Altineu Côrtes (PMDB-RJ)",
+    "partido":"PMDB",
+    "uf":"RJ",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Arolde de Oliveira (PSC-RJ)",
+    "partido":"PSC",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Aureo (SD-RJ)",
+    "partido":"SD",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Benedita da Silva (PT-RJ)",
+    "partido":"PT",
+    "uf":"RJ",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Cabo Daciolo (PT do B-RJ)",
+    "partido":"PTdoB",
+    "uf":"RJ",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Celso Pansera (PMDB-RJ)",
+    "partido":"PMDB",
+    "uf":"RJ",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Chico Alencar (PSOL-RJ)",
+    "partido":"PSOL",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Chico D'angelo (PT-RJ)",
+    "partido":"PT",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Clarissa Garotinho (PR-RJ)",
+    "partido":"PR",
+    "uf":"RJ",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Cristiane Brasil (PTB-RJ)",
+    "partido":"PTB",
+    "uf":"RJ",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Deley (PTB-RJ)",
+    "partido":"PTB",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Dr. João (PR-RJ)",
+    "partido":"PR",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Eduardo Cunha (PMDB-RJ)",
+    "partido":"PMDB",
+    "uf":"RJ",
+    "n_ocorrencias":"4"
+  },
+  {
+    "deputado":"Ezequiel Teixeira (PTN-RJ)",
+    "partido":"PTN",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Felipe Bornier (PROS-RJ)",
+    "partido":"PROS",
+    "uf":"RJ",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Fernando Jordão (PMDB-RJ)",
+    "partido":"PMDB",
+    "uf":"RJ",
+    "n_ocorrencias":"11"
+  },
+  {
+    "deputado":"Francisco Floriano (DEM-RJ)",
+    "partido":"DEM",
+    "uf":"RJ",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Glauber Braga (PSOL-RJ)",
+    "partido":"PSOL",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Hugo Leal (PSB-RJ)",
+    "partido":"PSB",
+    "uf":"RJ",
+    "n_ocorrencias":"6"
+  },
+  {
+    "deputado":"Indio da Costa (PSD-RJ)",
+    "partido":"PSD",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Jair Bolsonaro (PSC-RJ)",
+    "partido":"PSC",
+    "uf":"RJ",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Jandira Feghali (PC do B-RJ)",
+    "partido":"PCdoB",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Jean Wyllys (PSOL-RJ)",
+    "partido":"PSOL",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Julio Lopes (PP-RJ)",
+    "partido":"PP",
+    "uf":"RJ",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Leonardo Picciani (PMDB-RJ)",
+    "partido":"PMDB",
+    "uf":"RJ",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Luiz Carlos Ramos (PTN-RJ)",
+    "partido":"PTN",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Luiz Sérgio (PT-RJ)",
+    "partido":"PT",
+    "uf":"RJ",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Marcelo Matos (PHS-RJ)",
+    "partido":"PHS",
+    "uf":"RJ",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Marco Antônio Cabral (PMDB-RJ)",
+    "partido":"PMDB",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Marcos Soares (DEM-RJ)",
+    "partido":"DEM",
+    "uf":"RJ",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Miro Teixeira (REDE-RJ)",
+    "partido":"REDE",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Otavio Leite (PSDB-RJ)",
+    "partido":"PSDB",
+    "uf":"RJ",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Paulo Feijó (PR-RJ)",
+    "partido":"PR",
+    "uf":"RJ",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Pedro Paulo (PMDB-RJ)",
+    "partido":"PMDB",
+    "uf":"RJ",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Roberto Sales (PRB-RJ)",
+    "partido":"PRB",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Rodrigo Maia (DEM-RJ)",
+    "partido":"DEM",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Rosangela Gomes (PRB-RJ)",
+    "partido":"PRB",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Sérgio Zveiter",
+    "partido":"PMDB",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Simão Sessim (PP-RJ)",
+    "partido":"PP",
+    "uf":"RJ",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Soraya Santos (PMDB-RJ)",
+    "partido":"PMDB",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Sóstenes Cavalcante (DEM-RJ)",
+    "partido":"DEM",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Wadih Damous (PT-RJ)",
+    "partido":"PT",
+    "uf":"RJ",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Washington Reis (PMDB-RJ)",
+    "partido":"PMDB",
+    "uf":"RJ",
+    "n_ocorrencias":"30"
+  },
+  {
+    "deputado":"Carlos Manato (SD-ES)",
+    "partido":"SD",
+    "uf":"ES",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Dr. Jorge Silva (PHS-ES)",
+    "partido":"PHS",
+    "uf":"ES",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Evair de Melo (PV-ES)",
+    "partido":"PV",
+    "uf":"ES",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Givaldo Vieira (PT-ES)",
+    "partido":"PT",
+    "uf":"ES",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Helder Salomão (PT-ES)",
+    "partido":"PT",
+    "uf":"ES",
+    "n_ocorrencias":"4"
+  },
+  {
+    "deputado":"Lelo Coimbra (PMDB-ES)",
+    "partido":"PMDB",
+    "uf":"ES",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Marcus Vicente (PP-ES)",
+    "partido":"PP",
+    "uf":"ES",
+    "n_ocorrencias":"4"
+  },
+  {
+    "deputado":"Max Filho (PSDB-ES)",
+    "partido":"PSDB",
+    "uf":"ES",
+    "n_ocorrencias":"7"
+  },
+  {
+    "deputado":"Paulo Foletto (PSB-ES)",
+    "partido":"PSB",
+    "uf":"ES",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Sergio Vidigal (PDT-ES)",
+    "partido":"PDT",
+    "uf":"ES",
+    "n_ocorrencias":"9"
+  },
+  {
+    "deputado":"Assis Carvalho (PT-PI)",
+    "partido":"PT",
+    "uf":"PI",
+    "n_ocorrencias":"10"
+  },
+  {
+    "deputado":"Átila Lira (PSB-PI)",
+    "partido":"PSB",
+    "uf":"PI",
+    "n_ocorrencias":"4"
+  },
+  {
+    "deputado":"Capitão Fábio Abreu",
+    "partido":"PTB",
+    "uf":"PI",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Heráclito Fortes (PSB-PI)",
+    "partido":"PSB",
+    "uf":"PI",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Iracema Portella (PP-PI)",
+    "partido":"PP",
+    "uf":"PI",
+    "n_ocorrencias":"4"
+  },
+  {
+    "deputado":"Júlio Cesar (PSD-PI)",
+    "partido":"PSD",
+    "uf":"PI",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Marcelo Castro (PMDB-PI)",
+    "partido":"PMDB",
+    "uf":"PI",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Paes Landim (PTB-PI)",
+    "partido":"PTB",
+    "uf":"PI",
+    "n_ocorrencias":"4"
+  },
+  {
+    "deputado":"Rejane Dias (PT-PI)",
+    "partido":"PT",
+    "uf":"PI",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Rodrigo Martins (PSB-PI)",
+    "partido":"PSB",
+    "uf":"PI",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Antônio Jácome (PTN-RN)",
+    "partido":"PTN",
+    "uf":"RN",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Beto Rosado (PP-RN)",
+    "partido":"PP",
+    "uf":"RN",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Fábio Faria (PSD-RN)",
+    "partido":"PSD",
+    "uf":"RN",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Felipe Maia (DEM-RN)",
+    "partido":"DEM",
+    "uf":"RN",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Rafael Motta (PSB-RN)",
+    "partido":"PSB",
+    "uf":"RN",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Rogério Marinho (PSDB-RN)",
+    "partido":"PSDB",
+    "uf":"RN",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Walter Alves (PMDB-RN)",
+    "partido":"PMDB",
+    "uf":"RN",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Zenaide Maia (PR-RN)",
+    "partido":"PR",
+    "uf":"RN",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Adelmo Carneiro Leão (PT-MG)",
+    "partido":"PT",
+    "uf":"MG",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Aelton Freitas (PR-MG)",
+    "partido":"PR",
+    "uf":"MG",
+    "n_ocorrencias":"13"
+  },
+  {
+    "deputado":"Bilac Pinto (PR-MG)",
+    "partido":"PR",
+    "uf":"MG",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Bonifácio de Andrada (PSDB-MG)",
+    "partido":"PSDB",
+    "uf":"MG",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Brunny (PR-MG)",
+    "partido":"PR",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Caio Narcio (PSDB-MG)",
+    "partido":"PSDB",
+    "uf":"MG",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Carlos Melles (DEM-MG)",
+    "partido":"DEM",
+    "uf":"MG",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Dâmina Pereira (PSL-MG)",
+    "partido":"PSL",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Delegado Edson Moreira (PR-MG)",
+    "partido":"PR",
+    "uf":"MG",
+    "n_ocorrencias":"5"
+  },
+  {
+    "deputado":"Diego Andrade (PSD-MG)",
+    "partido":"PSD",
+    "uf":"MG",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Dimas Fabiano (PP-MG)",
+    "partido":"PP",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Domingos Sávio (PSDB-MG)",
+    "partido":"PSDB",
+    "uf":"MG",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Eduardo Barbosa (PSDB-MG)",
+    "partido":"PSDB",
+    "uf":"MG",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Eros Biondini (PROS-MG)",
+    "partido":"PROS",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Fábio Ramalho (PMDB-MG)",
+    "partido":"PMDB",
+    "uf":"MG",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Franklin Lima (PP-MG)",
+    "partido":"PP",
+    "uf":"MG",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Gabriel Guimarães (PT-MG)",
+    "partido":"PT",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"George Hilton (PROS-MG)",
+    "partido":"PROS",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Jaime Martins (PSD-MG)",
+    "partido":"PSD",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Jô Moraes (PC do B-MG)",
+    "partido":"PCdoB",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Júlio Delgado (PSB-MG)",
+    "partido":"PSB",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Laudivio Carvalho (SD-MG)",
+    "partido":"SD",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Leonardo Monteiro (PT-MG)",
+    "partido":"PT",
+    "uf":"MG",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Leonardo Quintão (PMDB-MG)",
+    "partido":"PMDB",
+    "uf":"MG",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Lincoln Portela (PRB-MG)",
+    "partido":"PRB",
+    "uf":"MG",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Luis Tibé (PT do B-MG)",
+    "partido":"PTdoB",
+    "uf":"MG",
+    "n_ocorrencias":"6"
+  },
+  {
+    "deputado":"Luiz Fernando Faria (PP-MG)",
+    "partido":"PP",
+    "uf":"MG",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Marcelo Álvaro Antônio (PR-MG)",
+    "partido":"PR",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Marcelo Aro (PHS-MG)",
+    "partido":"PHS",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Marcos Montes (PSD-MG)",
+    "partido":"PSD",
+    "uf":"MG",
+    "n_ocorrencias":"4"
+  },
+  {
+    "deputado":"Marcus Pestana (PSDB-MG)",
+    "partido":"PSDB",
+    "uf":"MG",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Margarida Salomão (PT-MG)",
+    "partido":"PT",
+    "uf":"MG",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Mário Heringer (PDT-MG)",
+    "partido":"PDT",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Mauro Lopes (PMDB-MG)",
+    "partido":"PMDB",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Miguel Corrêa",
+    "partido":"PT",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Misael Varella (DEM-MG)",
+    "partido":"DEM",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Newton Cardoso Jr (PMDB-MG)",
+    "partido":"PMDB",
+    "uf":"MG",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Odelmo Leão (PP-MG)",
+    "partido":"PP",
+    "uf":"MG",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Padre João (PT-MG)",
+    "partido":"PT",
+    "uf":"MG",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Patrus Ananias",
+    "partido":"PT",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Paulo Abi-Ackel (PSDB-MG)",
+    "partido":"PSDB",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Raquel Muniz (PSD-MG)",
+    "partido":"PSD",
+    "uf":"MG",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Reginaldo Lopes (PT-MG)",
+    "partido":"PT",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Renzo Braz (PP-MG)",
+    "partido":"PP",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Rodrigo de Castro (PSDB-MG)",
+    "partido":"PSDB",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Rodrigo Pacheco (PMDB-MG)",
+    "partido":"PMDB",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Saraiva Felipe (PMDB-MG)",
+    "partido":"PMDB",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Stefano Aguiar (PSD-MG)",
+    "partido":"PSD",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Subtenente Gonzaga (PDT-MG)",
+    "partido":"PDT",
+    "uf":"MG",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Tenente Lúcio (PSB-MG)",
+    "partido":"PSB",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Toninho Pinheiro (PP-MG)",
+    "partido":"PP",
+    "uf":"MG",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Weliton Prado (PMB-MG)",
+    "partido":"PMB",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Zé Silva (SD-MG)",
+    "partido":"SD",
+    "uf":"MG",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Aguinaldo Ribeiro (PP-PB)",
+    "partido":"PP",
+    "uf":"PB",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Benjamin Maranhão (SD-PB)",
+    "partido":"SD",
+    "uf":"PB",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Damião Feliciano (PDT-PB)",
+    "partido":"PDT",
+    "uf":"PB",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Efraim Filho (DEM-PB)",
+    "partido":"DEM",
+    "uf":"PB",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Hugo Motta (PMDB-PB)",
+    "partido":"PMDB",
+    "uf":"PB",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Luiz Couto (PT-PB)",
+    "partido":"PT",
+    "uf":"PB",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Manoel Junior (PMDB-PB)",
+    "partido":"PMDB",
+    "uf":"PB",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Pedro Cunha Lima (PSDB-PB)",
+    "partido":"PSDB",
+    "uf":"PB",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Rômulo Gouveia (PSD-PB)",
+    "partido":"PSD",
+    "uf":"PB",
+    "n_ocorrencias":"6"
+  },
+  {
+    "deputado":"Veneziano Vital do Rêgo (PMDB-PB)",
+    "partido":"PMDB",
+    "uf":"PB",
+    "n_ocorrencias":"35"
+  },
+  {
+    "deputado":"Wellington Roberto (PR-PB)",
+    "partido":"PR",
+    "uf":"PB",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Wilson Filho (PTB-PB)",
+    "partido":"PTB",
+    "uf":"PB",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Adalberto Cavalcanti (PTB-PE)",
+    "partido":"PTB",
+    "uf":"PE",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Anderson Ferreira (PR-PE)",
+    "partido":"PR",
+    "uf":"PE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"André de Paula",
+    "partido":"PSD",
+    "uf":"PE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Augusto Coutinho (SD-PE)",
+    "partido":"SD",
+    "uf":"PE",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Betinho Gomes (PSDB-PE)",
+    "partido":"PSDB",
+    "uf":"PE",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Bruno Araújo (PSDB-PE)",
+    "partido":"PSDB",
+    "uf":"PE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Daniel Coelho (PSDB-PE)",
+    "partido":"PSDB",
+    "uf":"PE",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Danilo Cabral",
+    "partido":"PSB",
+    "uf":"PE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Eduardo da Fonte (PP-PE)",
+    "partido":"PP",
+    "uf":"PE",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Fernando Coelho Filho (PSB-PE)",
+    "partido":"PSB",
+    "uf":"PE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Gonzaga Patriota (PSB-PE)",
+    "partido":"PSB",
+    "uf":"PE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Jarbas Vasconcelos (PMDB-PE)",
+    "partido":"PMDB",
+    "uf":"PE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"João Fernando Coutinho (PSB-PE)",
+    "partido":"PSB",
+    "uf":"PE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Jorge Côrte Real (PTB-PE)",
+    "partido":"PTB",
+    "uf":"PE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Kaio Maniçoba (PMDB-PE)",
+    "partido":"PMDB",
+    "uf":"PE",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Luciana Santos (PC do B-PE)",
+    "partido":"PCdoB",
+    "uf":"PE",
+    "n_ocorrencias":"6"
+  },
+  {
+    "deputado":"Marinaldo Rosendo (PSB-PE)",
+    "partido":"PSB",
+    "uf":"PE",
+    "n_ocorrencias":"9"
+  },
+  {
+    "deputado":"Mendonça Filho (DEM-PE)",
+    "partido":"DEM",
+    "uf":"PE",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Pastor Eurico (PHS-PE)",
+    "partido":"PHS",
+    "uf":"PE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Ricardo Teobaldo (PTN-PE)",
+    "partido":"PTN",
+    "uf":"PE",
+    "n_ocorrencias":"5"
+  },
+  {
+    "deputado":"Sebastião Oliveira (PR-PE)",
+    "partido":"PR",
+    "uf":"PE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Silvio Costa (PT do B-PE)",
+    "partido":"PTdoB",
+    "uf":"PE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Tadeu Alencar (PSB-PE)",
+    "partido":"PSB",
+    "uf":"PE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Wolney Queiroz (PDT-PE)",
+    "partido":"PDT",
+    "uf":"PE",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Zeca Cavalcanti (PTB-PE)",
+    "partido":"PTB",
+    "uf":"PE",
+    "n_ocorrencias":"16"
+  },
+  {
+    "deputado":"Afonso Florence (PT-BA)",
+    "partido":"PT",
+    "uf":"BA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Alice Portugal (PC do B-BA)",
+    "partido":"PCdoB",
+    "uf":"BA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Antonio Brito (PSD-BA)",
+    "partido":"PSD",
+    "uf":"BA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Antonio Imbassahy (PSDB-BA)",
+    "partido":"PSDB",
+    "uf":"BA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Arthur Oliveira Maia (PPS-BA)",
+    "partido":"PPS",
+    "uf":"BA",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Bacelar (PTN-BA)",
+    "partido":"PTN",
+    "uf":"BA",
+    "n_ocorrencias":"8"
+  },
+  {
+    "deputado":"Bebeto (PSB-BA)",
+    "partido":"PSB",
+    "uf":"BA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Benito Gama (PTB-BA)",
+    "partido":"PTB",
+    "uf":"BA",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Cacá Leão (PP-BA)",
+    "partido":"PP",
+    "uf":"BA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Caetano (PT-BA)",
+    "partido":"PT",
+    "uf":"BA",
+    "n_ocorrencias":"8"
+  },
+  {
+    "deputado":"Claudio Cajado (DEM-BA)",
+    "partido":"DEM",
+    "uf":"BA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Daniel Almeida (PC do B-BA)",
+    "partido":"PCdoB",
+    "uf":"BA",
+    "n_ocorrencias":"4"
+  },
+  {
+    "deputado":"Davidson Magalhães (PC do B-BA)",
+    "partido":"PCdoB",
+    "uf":"BA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Elmar Nascimento (DEM-BA)",
+    "partido":"DEM",
+    "uf":"BA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Erivelton Santana (PEN-BA)",
+    "partido":"PEN",
+    "uf":"BA",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Félix Mendonça Júnior (PDT-BA)",
+    "partido":"PDT",
+    "uf":"BA",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Fernando Torres (PSD-BA)",
+    "partido":"PSD",
+    "uf":"BA",
+    "n_ocorrencias":"5"
+  },
+  {
+    "deputado":"Irmão Lazaro (PSC-BA)",
+    "partido":"PSC",
+    "uf":"BA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"João Carlos Bacelar (PR-BA)",
+    "partido":"PR",
+    "uf":"BA",
+    "n_ocorrencias":"4"
+  },
+  {
+    "deputado":"João Gualberto (PSDB-BA)",
+    "partido":"PSDB",
+    "uf":"BA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Jorge Solla (PT-BA)",
+    "partido":"PT",
+    "uf":"BA",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"José Carlos Aleluia (DEM-BA)",
+    "partido":"DEM",
+    "uf":"BA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"José Carlos Araújo (PR-BA)",
+    "partido":"PR",
+    "uf":"BA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"José Nunes (PSD-BA)",
+    "partido":"PSD",
+    "uf":"BA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"José Rocha (PR-BA)",
+    "partido":"PR",
+    "uf":"BA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Jutahy Junior (PSDB-BA)",
+    "partido":"PSDB",
+    "uf":"BA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Lucio Vieira Lima (PMDB-BA)",
+    "partido":"PMDB",
+    "uf":"BA",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Márcio Marinho (PRB-BA)",
+    "partido":"PRB",
+    "uf":"BA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Mário Negromonte Jr. (PP-BA)",
+    "partido":"PP",
+    "uf":"BA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Moema Gramacho (PT-BA)",
+    "partido":"PT",
+    "uf":"BA",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Paulo Azi (DEM-BA)",
+    "partido":"DEM",
+    "uf":"BA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Paulo Magalhães (PSD-BA)",
+    "partido":"PSD",
+    "uf":"BA",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Roberto Britto (PP-BA)",
+    "partido":"PP",
+    "uf":"BA",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Ronaldo Carletto (PP-BA)",
+    "partido":"PP",
+    "uf":"BA",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Sérgio Brito (PSD-BA)",
+    "partido":"PSD",
+    "uf":"BA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Tia Eron (PRB-BA)",
+    "partido":"PRB",
+    "uf":"BA",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Uldurico Junior (PV-BA)",
+    "partido":"PV",
+    "uf":"BA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Valmir Assunção (PT-BA)",
+    "partido":"PT",
+    "uf":"BA",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Waldenor Pereira (PT-BA)",
+    "partido":"PT",
+    "uf":"BA",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Adelson Barreto (PR-SE)",
+    "partido":"PR",
+    "uf":"SE",
+    "n_ocorrencias":"3"
+  },
+  {
+    "deputado":"Andre Moura (PSC-SE)",
+    "partido":"PSC",
+    "uf":"SE",
+    "n_ocorrencias":"14"
+  },
+  {
+    "deputado":"Fábio Mitidieri (PSD-SE)",
+    "partido":"PSD",
+    "uf":"SE",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Fabio Reis (PMDB-SE)",
+    "partido":"PMDB",
+    "uf":"SE",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"João Daniel (PT-SE)",
+    "partido":"PT",
+    "uf":"SE",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Jony Marcos (PRB-SE)",
+    "partido":"PRB",
+    "uf":"SE",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Laercio Oliveira (SD-SE)",
+    "partido":"SD",
+    "uf":"SE",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Valadares Filho (PSB-SE)",
+    "partido":"PSB",
+    "uf":"SE",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Arthur Lira (PP-AL)",
+    "partido":"PP",
+    "uf":"AL",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Cícero Almeida (PMDB-AL)",
+    "partido":"PMDB",
+    "uf":"AL",
+    "n_ocorrencias":"5"
+  },
+  {
+    "deputado":"Givaldo Carimbão (PHS-AL)",
+    "partido":"PHS",
+    "uf":"AL",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Jhc (PSB-AL)",
+    "partido":"PSB",
+    "uf":"AL",
+    "n_ocorrencias":"0"
+  },
+  {
+    "deputado":"Marx Beltrão (PMDB-AL)",
+    "partido":"PMDB",
+    "uf":"AL",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Maurício Quintella Lessa (PR-AL)",
+    "partido":"PR",
+    "uf":"AL",
+    "n_ocorrencias":"2"
+  },
+  {
+    "deputado":"Paulão (PT-AL)",
+    "partido":"PT",
+    "uf":"AL",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Pedro Vilela (PSDB-AL)",
+    "partido":"PSDB",
+    "uf":"AL",
+    "n_ocorrencias":"1"
+  },
+  {
+    "deputado":"Ronaldo Lessa (PDT-AL)",
+    "partido":"PDT",
+    "uf":"AL",
+    "n_ocorrencias":"9"
+  }
+]

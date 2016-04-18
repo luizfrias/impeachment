@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Análise do Impeachment</title>
+<meta name="author" content="Luiz Fernando de Frias" />
+<meta name="description" content="Análise do Impeachment de Dilma Roussef - Por Luiz Fernando de Frias" />
+<meta name="keywords"  content="analise,impeachment,dilma,roussef,2016,luiz,fernando,frias" />
+<meta name="Resource-type" content="Document" />
+
+<link rel="stylesheet" type="text/css" href="css/jquery.fullPage.css" />
+<link rel="stylesheet" type="text/css" href="css/colorbrewer.css" />
+
+<link rel="stylesheet" type="text/css" href="css/examples.css" />
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+<!--[if IE]>
+    <script type="text/javascript">
+         var console = { log: function() {} };
+    </script>
+<![endif]-->
+</head>
+<body>
+
+<div class="container">
+
+    <div class="row first-row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+            <!-- Titulo -->
+            <div class='row title'>
+            <h1>Análise do Impeachment de Dilma Roussef</h1>
+            <!--<p>(por Luiz Fernando de Frias)</p>
+            </div>-->
+            <!--  Fim do Titulo -- >
+
+            <!-- Descricao -->
+            <div class='row description'>
+            <p>
+            Nesta página vou explorar os dados da votação do processo de impedimento da presidente Dilma Roussef, ocorrido no dia 17/04/2016.
+            Os votos dos deputados serão analisados sob a ótica de partidos, de estados e de condenações judiciais.
+            </p>
+            <p>
+            Em um total de 513 deputados, apenas 9 não computaram votos a favor ou contra (7 abstenções e 2 ausências) e serão ignorados na análise. O placar final foi de <b>367 deputados a favor do impeachment</b> e <b>137 contra</b>.
+            </p>
+            <p>
+            Os dados foram retirados da <a href='http://revistapiaui.estadao.com.br/lupa/'>Agência Lupa</a>. Caso queiram conferir algum dado, o g1 fez uma <a href='http://especiais.g1.globo.com/politica/2016/processo-de-impeachment-de-dilma/a-votacao-do-impeachment-na-camara/'>visualização bem legal.</a>
+            </p>
+            </div>
+            <hr />
+            <!-- Fim da Descricao -->
+
+            <!-- Analise dos mapas -->
+            <div class='row description'>
+            <p>
+            Os três maiores partidos da câmara são: PMDB (67 deputados), PT (60 deputados) e PSDB (52 deputados).
+            </p>
+            <p>
+            Com isso, os partidos que <b>mais contrbuíram com votos a favor</b> foram <b>PMDB e PSDB</b>. O PSDB votou em sua totalidade a favor do impeachment, enquanto aproximadamente 90% do PMDB votou a favor. <b>No gráfico abaixo é possível ver a quantidade de votos a favor de cada partido.</b>
+            </p>
+            <p>
+            Muitos partidos foram unânimes a favor do impeachment, mas o contrário pouco ocorreu. Apenas <b>PCdoB, PSON e PT foram unânimes votando contra</b>. O PDT apresentou maioria <b>contra o impeachment</b> (12 votos contra, 6 a favor e 1 abstenção).
+            </p>
+            </div>
+            <div class='row' id='hist-partidos'>
+            </div>
+
+            <div class='row description'>
+            <p>
+            Regionalmente, os votos se dividiram da seguinte forma: apenas os estados do Amazonas e Roraima foram unânimes em relação ao impeachment. O estado de Goiás obteve cerca de 95% dos votos a favor. Isso é indicado pela coloração mais escura do mapa à esquerda.
+            </p>
+            <p>
+            <b>O impeachment foi maioria em todas as regiões do Brasil</b>. As regiões Centro-Oeste, Sudeste e Sul contaram com cerca de 80% dos votos a favor. 
+            A única região que aparentou estar divida foi a região Nordeste, com pouco mais da metade apoiando o impedimento da presidente.
+            </p>
+            </div>
+            <div class='row'>
+                <div class='col-lg-6' id='map-estados-container'></div>
+                <div class='col-lg-6' id='map-regiao-container'></div>
+            </div>
+            <div class='row description'>
+            <p>
+            O diagrama abaixo ilustra como cada região impactou no resultado da votação: os estados estão separados de acordo com sua região; o tamanho do retângulo da região é proporcional ao número de votos. Clicando na região é possível ver a separação dos votos por estado.
+            </p>
+            <p>
+            Olhando para os votos a favor do impeachment, fica claro que a região Sudeste foi a que deu maior contribuição no número de votos favoráveis à saída de Dilma.
+            Já olhando o gráfico de baixo, é possível ver que a região Nordeste foi quem mais lutou para sua permanência.
+            </p>
+            </div>
+            <div class='row description'>
+            <p><b>Votos a favor do impeachment</b>
+            </p>
+            </div>
+            <div class='row' id='treemap-favor'>
+            </div>
+            <div class='row description'>
+            <p><b>Votos contra o impeachment</b></p>
+            </div>
+            <div class='row' id='treemap-contra'>
+            </div>
+            <!-- -->
+
+            <!-- Fim da pagina -->
+            <hr/>
+            <div class='row'>
+                <p class="copyright text-muted">Copyright &copy; Luiz Fernando de Frias</p>
+            </div>
+            <!-- -->
+
+
+        </div>
+    </div>
+
+</div><!-- /.container -->
+
+
+<!-- Bootstrap core JavaScript
+    ================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+
+<script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script type="text/javascript" src="js/jquery.fullPage.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.16/d3.min.js"></script>
+<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.20/topojson.min.js"></script>
+<script src="js/datamaps.world.min.js"></script>
+<script src="js/colorbrewer.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore.js'></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+<script type="text/javascript" src="js/votos.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
+</body>
+</html>
