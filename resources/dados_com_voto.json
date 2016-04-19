@@ -18,7 +18,7 @@
         "n_ocorrencias": "1", 
         "partido": "PR", 
         "uf": "RR", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Hiran Gonçalves (PP-RR)", 
@@ -67,7 +67,7 @@
         "n_ocorrencias": "0", 
         "partido": "PDT", 
         "uf": "RS", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Alceu Moreira (PMDB-RS)", 
@@ -81,7 +81,7 @@
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "RS", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Carlos Gomes (PRB-RS)", 
@@ -130,7 +130,7 @@
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "RS", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Jerônimo Goergen (PP-RS)", 
@@ -186,21 +186,21 @@
         "n_ocorrencias": "2", 
         "partido": "PT", 
         "uf": "RS", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Marcon (PT-RS)", 
         "n_ocorrencias": "1", 
         "partido": "PT", 
         "uf": "RS", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Maria do Rosário (PT-RS)", 
         "n_ocorrencias": "1", 
         "partido": "PT", 
         "uf": "RS", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Mauro Pereira (PMDB-RS)", 
@@ -235,21 +235,21 @@
         "n_ocorrencias": "2", 
         "partido": "PT", 
         "uf": "RS", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Pepe Vargas (PT-RS)", 
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "RS", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Pompeo de Mattos (PDT-RS)", 
         "n_ocorrencias": "2", 
         "partido": "PDT", 
         "uf": "RS", 
-        "voto": 1
+        "voto": -1
     }, 
     {
         "deputado": "Renato Molling (PP-RS)", 
@@ -298,7 +298,7 @@
         "n_ocorrencias": "11", 
         "partido": "PT", 
         "uf": "SC", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Esperidião Amin (PP-SC)", 
@@ -361,7 +361,7 @@
         "n_ocorrencias": "13", 
         "partido": "PT", 
         "uf": "SC", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Rogério Peninha Mendonça (PMDB-SC)", 
@@ -403,14 +403,14 @@
         "n_ocorrencias": "2", 
         "partido": "PSB", 
         "uf": "AP", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Jozi Araújo (PTN-AP)", 
         "n_ocorrencias": "2", 
         "partido": "PTN", 
         "uf": "AP", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Marcos Reategui (PSD-AP)", 
@@ -424,21 +424,21 @@
         "n_ocorrencias": "0", 
         "partido": "PCdoB", 
         "uf": "AP", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Roberto Góes (PDT-AP)", 
         "n_ocorrencias": "25", 
         "partido": "PDT", 
         "uf": "AP", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Vinicius Gurgel (PR-AP)", 
         "n_ocorrencias": "5", 
         "partido": "PR", 
         "uf": "AP", 
-        "voto": 1
+        "voto": -1
     }, 
     {
         "deputado": "Arnaldo Jordy (PPS-PA)", 
@@ -452,14 +452,14 @@
         "n_ocorrencias": "2", 
         "partido": "PT", 
         "uf": "PA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Beto Salame (PP-PA)", 
         "n_ocorrencias": "0", 
         "partido": "PP", 
         "uf": "PA", 
-        "voto": 1
+        "voto": -1
     }, 
     {
         "deputado": "Delegado Éder Mauro (PSD-PA)", 
@@ -473,14 +473,14 @@
         "n_ocorrencias": "4", 
         "partido": "PSOL", 
         "uf": "PA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Elcione Barbalho (PMDB-PA)", 
         "n_ocorrencias": "0", 
         "partido": "PMDB", 
         "uf": "PA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Francisco Chapadinha (PTN-PA)", 
@@ -529,7 +529,7 @@
         "n_ocorrencias": "0", 
         "partido": "PR", 
         "uf": "PA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Nilson Pinto (PSDB-PA)", 
@@ -543,7 +543,7 @@
         "n_ocorrencias": "1", 
         "partido": "PMDB", 
         "uf": "PA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Wladimir Costa (SD-PA)", 
@@ -557,7 +557,7 @@
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "PA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Alex Canziani (PTB-PR)", 
@@ -578,14 +578,14 @@
         "n_ocorrencias": "0", 
         "partido": "REDE", 
         "uf": "PR", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Assis do Couto (PDT-PR)", 
         "n_ocorrencias": "0", 
         "partido": "PDT", 
         "uf": "PR", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Christiane de Souza Yared (PR-PR)", 
@@ -613,7 +613,7 @@
         "n_ocorrencias": "1", 
         "partido": "PT", 
         "uf": "PR", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Evandro Roman (PSD-PR)", 
@@ -767,7 +767,7 @@
         "n_ocorrencias": "2", 
         "partido": "PT", 
         "uf": "PR", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Carlos Marun (PMDB-MS)", 
@@ -781,7 +781,7 @@
         "n_ocorrencias": "4", 
         "partido": "PDT", 
         "uf": "MS", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Elizeu Dionizio (PSDB-MS)", 
@@ -816,14 +816,14 @@
         "n_ocorrencias": "6", 
         "partido": "PT", 
         "uf": "MS", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Zeca do Pt (PT-MS)", 
         "n_ocorrencias": "7", 
         "partido": "PT", 
         "uf": "MS", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Alfredo Nascimento (PR-AM)", 
@@ -1047,7 +1047,7 @@
         "n_ocorrencias": "1", 
         "partido": "PT", 
         "uf": "GO", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Thiago Peixoto", 
@@ -1075,7 +1075,7 @@
         "n_ocorrencias": "3", 
         "partido": "PT", 
         "uf": "DF", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Izalci (PSDB-DF)", 
@@ -1124,14 +1124,14 @@
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "AC", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "César Messias (PSB-AC)", 
         "n_ocorrencias": "3", 
         "partido": "PSB", 
         "uf": "AC", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Flaviano Melo (PMDB-AC)", 
@@ -1152,7 +1152,7 @@
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "AC", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Rocha (PSDB-AC)", 
@@ -1166,7 +1166,7 @@
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "AC", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Carlos Henrique Gaguim (PTN-TO)", 
@@ -1194,7 +1194,7 @@
         "n_ocorrencias": "1", 
         "partido": "PSD", 
         "uf": "TO", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Josi Nunes (PMDB-TO)", 
@@ -1222,7 +1222,7 @@
         "n_ocorrencias": "0", 
         "partido": "PR", 
         "uf": "TO", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Adilton Sachetti (PSB-MT)", 
@@ -1264,7 +1264,7 @@
         "n_ocorrencias": "9", 
         "partido": "PT", 
         "uf": "MT", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Tampinha (PSD-MT)", 
@@ -1278,7 +1278,7 @@
         "n_ocorrencias": "2", 
         "partido": "PMDB", 
         "uf": "MT", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Alex Manente (PPS-SP)", 
@@ -1299,14 +1299,14 @@
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "SP", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Andres Sanchez (PT-SP)", 
         "n_ocorrencias": "5", 
         "partido": "PT", 
         "uf": "SP", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Antonio Bulhões (PRB-SP)", 
@@ -1320,7 +1320,7 @@
         "n_ocorrencias": "1", 
         "partido": "PT", 
         "uf": "SP", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Arnaldo Faria de Sá (PTB-SP)", 
@@ -1383,7 +1383,7 @@
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "SP", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Celso Russomanno (PRB-SP)", 
@@ -1495,7 +1495,7 @@
         "n_ocorrencias": "0", 
         "partido": "PSOL", 
         "uf": "SP", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Jefferson Campos (PSD-SP)", 
@@ -1523,7 +1523,7 @@
         "n_ocorrencias": "1", 
         "partido": "PT", 
         "uf": "SP", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Keiko Ota (PSB-SP)", 
@@ -1544,7 +1544,7 @@
         "n_ocorrencias": "1", 
         "partido": "PSOL", 
         "uf": "SP", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Major Olimpio (SD-SP)", 
@@ -1614,14 +1614,14 @@
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "SP", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Orlando Silva (PC do B-SP)", 
         "n_ocorrencias": "4", 
         "partido": "PCdoB", 
         "uf": "SP", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Paulo Freire (PR-SP)", 
@@ -1649,7 +1649,7 @@
         "n_ocorrencias": "2", 
         "partido": "PT", 
         "uf": "SP", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Pr. Marco Feliciano (PSC-SP)", 
@@ -1733,7 +1733,7 @@
         "n_ocorrencias": "2", 
         "partido": "PT", 
         "uf": "SP", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Vanderlei Macris (PSDB-SP)", 
@@ -1747,14 +1747,14 @@
         "n_ocorrencias": "2", 
         "partido": "PT", 
         "uf": "SP", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Vicentinho (PT-SP)", 
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "SP", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Vinicius Carvalho (PRB-SP)", 
@@ -1782,7 +1782,7 @@
         "n_ocorrencias": "1", 
         "partido": "PTN", 
         "uf": "MA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "André Fufuca (PP-MA)", 
@@ -1824,7 +1824,7 @@
         "n_ocorrencias": "0", 
         "partido": "PMDB", 
         "uf": "MA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "José Reinaldo (PSB-MA)", 
@@ -1838,7 +1838,7 @@
         "n_ocorrencias": "12", 
         "partido": "PEN", 
         "uf": "MA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Juscelino Filho (DEM-MA)", 
@@ -1852,14 +1852,14 @@
         "n_ocorrencias": "1", 
         "partido": "PTB", 
         "uf": "MA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Rubens Pereira Júnior (PC do B-MA)", 
         "n_ocorrencias": "0", 
         "partido": "PCdoB", 
         "uf": "MA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Sarney Filho (PV-MA)", 
@@ -1880,21 +1880,21 @@
         "n_ocorrencias": "6", 
         "partido": "PP", 
         "uf": "MA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Weverton Rocha (PDT-MA)", 
         "n_ocorrencias": "7", 
         "partido": "PDT", 
         "uf": "MA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Zé Carlos (PT-MA)", 
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "MA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Adail Carneiro", 
@@ -1908,21 +1908,21 @@
         "n_ocorrencias": "4", 
         "partido": "PMDB", 
         "uf": "CE", 
-        "voto": 1
+        "voto": -1
     }, 
     {
         "deputado": "Ariosto Holanda (PDT-CE)", 
         "n_ocorrencias": "2", 
         "partido": "PDT", 
         "uf": "CE", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Arnon Bezerra (PTB-CE)", 
         "n_ocorrencias": "1", 
         "partido": "PTB", 
         "uf": "CE", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Cabo Sabino (PR-CE)", 
@@ -1936,7 +1936,7 @@
         "n_ocorrencias": "0", 
         "partido": "PCdoB", 
         "uf": "CE", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Danilo Forte (PSB-CE)", 
@@ -1950,7 +1950,7 @@
         "n_ocorrencias": "0", 
         "partido": "PSD", 
         "uf": "CE", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Genecias Noronha (SD-CE)", 
@@ -1964,42 +1964,42 @@
         "n_ocorrencias": "2", 
         "partido": "PR", 
         "uf": "CE", 
-        "voto": 1
+        "voto": -1
     }, 
     {
         "deputado": "José Airton Cirilo (PT-CE)", 
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "CE", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "José Guimarães (PT-CE)", 
         "n_ocorrencias": "1", 
         "partido": "PT", 
         "uf": "CE", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Leônidas Cristino (PDT-CE)", 
         "n_ocorrencias": "1", 
         "partido": "PDT", 
         "uf": "CE", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Luizianne Lins (PT-CE)", 
         "n_ocorrencias": "6", 
         "partido": "PT", 
         "uf": "CE", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Macedo (PP-CE)", 
         "n_ocorrencias": "3", 
         "partido": "PP", 
         "uf": "CE", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Moroni Torgan (DEM-CE)", 
@@ -2020,7 +2020,7 @@
         "n_ocorrencias": "3", 
         "partido": "PROS", 
         "uf": "CE", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Raimundo Gomes de Matos (PSDB-CE)", 
@@ -2041,7 +2041,7 @@
         "n_ocorrencias": "0", 
         "partido": "PDT", 
         "uf": "CE", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Vitor Valim (PMDB-CE)", 
@@ -2055,7 +2055,7 @@
         "n_ocorrencias": "0", 
         "partido": "REDE", 
         "uf": "RJ", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Alexandre Serfiotis (PMDB-RJ)", 
@@ -2097,7 +2097,7 @@
         "n_ocorrencias": "1", 
         "partido": "PT", 
         "uf": "RJ", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Cabo Daciolo (PT do B-RJ)", 
@@ -2111,28 +2111,28 @@
         "n_ocorrencias": "1", 
         "partido": "PMDB", 
         "uf": "RJ", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Chico Alencar (PSOL-RJ)", 
         "n_ocorrencias": "0", 
         "partido": "PSOL", 
         "uf": "RJ", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Chico D'angelo (PT-RJ)", 
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "RJ", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Clarissa Garotinho (PR-RJ)", 
         "n_ocorrencias": "3", 
         "partido": "PR", 
         "uf": "RJ", 
-        "voto": 1
+        "voto": -1
     }, 
     {
         "deputado": "Cristiane Brasil (PTB-RJ)", 
@@ -2195,7 +2195,7 @@
         "n_ocorrencias": "0", 
         "partido": "PSOL", 
         "uf": "RJ", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Hugo Leal (PSB-RJ)", 
@@ -2223,14 +2223,14 @@
         "n_ocorrencias": "0", 
         "partido": "PCdoB", 
         "uf": "RJ", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Jean Wyllys (PSOL-RJ)", 
         "n_ocorrencias": "0", 
         "partido": "PSOL", 
         "uf": "RJ", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Julio Lopes (PP-RJ)", 
@@ -2244,7 +2244,7 @@
         "n_ocorrencias": "1", 
         "partido": "PMDB", 
         "uf": "RJ", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Luiz Carlos Ramos (PTN-RJ)", 
@@ -2258,7 +2258,7 @@
         "n_ocorrencias": "1", 
         "partido": "PT", 
         "uf": "RJ", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Marcelo Matos (PHS-RJ)", 
@@ -2363,7 +2363,7 @@
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "RJ", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Washington Reis (PMDB-RJ)", 
@@ -2398,14 +2398,14 @@
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "ES", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Helder Salomão (PT-ES)", 
         "n_ocorrencias": "4", 
         "partido": "PT", 
         "uf": "ES", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Lelo Coimbra (PMDB-ES)", 
@@ -2447,7 +2447,7 @@
         "n_ocorrencias": "10", 
         "partido": "PT", 
         "uf": "PI", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Átila Lira (PSB-PI)", 
@@ -2461,7 +2461,7 @@
         "n_ocorrencias": "0", 
         "partido": "PTB", 
         "uf": "PI", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Heráclito Fortes (PSB-PI)", 
@@ -2489,21 +2489,21 @@
         "n_ocorrencias": "1", 
         "partido": "PMDB", 
         "uf": "PI", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Paes Landim (PTB-PI)", 
         "n_ocorrencias": "4", 
         "partido": "PTB", 
         "uf": "PI", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Rejane Dias (PT-PI)", 
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "PI", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Rodrigo Martins (PSB-PI)", 
@@ -2566,21 +2566,21 @@
         "n_ocorrencias": "0", 
         "partido": "PR", 
         "uf": "RN", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Adelmo Carneiro Leão (PT-MG)", 
         "n_ocorrencias": "1", 
         "partido": "PT", 
         "uf": "MG", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Aelton Freitas (PR-MG)", 
         "n_ocorrencias": "13", 
         "partido": "PR", 
         "uf": "MG", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Bilac Pinto (PR-MG)", 
@@ -2601,7 +2601,7 @@
         "n_ocorrencias": "0", 
         "partido": "PR", 
         "uf": "MG", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Caio Narcio (PSDB-MG)", 
@@ -2685,14 +2685,14 @@
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "MG", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "George Hilton (PROS-MG)", 
         "n_ocorrencias": "0", 
         "partido": "PROS", 
         "uf": "MG", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Jaime Martins (PSD-MG)", 
@@ -2706,7 +2706,7 @@
         "n_ocorrencias": "0", 
         "partido": "PCdoB", 
         "uf": "MG", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Júlio Delgado (PSB-MG)", 
@@ -2727,7 +2727,7 @@
         "n_ocorrencias": "1", 
         "partido": "PT", 
         "uf": "MG", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Leonardo Quintão (PMDB-MG)", 
@@ -2790,7 +2790,7 @@
         "n_ocorrencias": "1", 
         "partido": "PT", 
         "uf": "MG", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Mário Heringer (PDT-MG)", 
@@ -2811,7 +2811,7 @@
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "MG", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Misael Varella (DEM-MG)", 
@@ -2839,14 +2839,14 @@
         "n_ocorrencias": "2", 
         "partido": "PT", 
         "uf": "MG", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Patrus Ananias", 
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "MG", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Paulo Abi-Ackel (PSDB-MG)", 
@@ -2867,7 +2867,7 @@
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "MG", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Renzo Braz (PP-MG)", 
@@ -2958,7 +2958,7 @@
         "n_ocorrencias": "1", 
         "partido": "PDT", 
         "uf": "PB", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Efraim Filho (DEM-PB)", 
@@ -2979,7 +2979,7 @@
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "PB", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Manoel Junior (PMDB-PB)", 
@@ -3014,7 +3014,7 @@
         "n_ocorrencias": "1", 
         "partido": "PR", 
         "uf": "PB", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Wilson Filho (PTB-PB)", 
@@ -3028,7 +3028,7 @@
         "n_ocorrencias": "2", 
         "partido": "PTB", 
         "uf": "PE", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Anderson Ferreira (PR-PE)", 
@@ -3133,7 +3133,7 @@
         "n_ocorrencias": "6", 
         "partido": "PCdoB", 
         "uf": "PE", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Marinaldo Rosendo (PSB-PE)", 
@@ -3161,21 +3161,21 @@
         "n_ocorrencias": "5", 
         "partido": "PTN", 
         "uf": "PE", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Sebastião Oliveira (PR-PE)", 
         "n_ocorrencias": "0", 
         "partido": "PR", 
         "uf": "PE", 
-        "voto": 1
+        "voto": -1
     }, 
     {
         "deputado": "Silvio Costa (PT do B-PE)", 
         "n_ocorrencias": "0", 
         "partido": "PTdoB", 
         "uf": "PE", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Tadeu Alencar (PSB-PE)", 
@@ -3189,35 +3189,35 @@
         "n_ocorrencias": "0", 
         "partido": "PDT", 
         "uf": "PE", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Zeca Cavalcanti (PTB-PE)", 
         "n_ocorrencias": "16", 
         "partido": "PTB", 
         "uf": "PE", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Afonso Florence (PT-BA)", 
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "BA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Alice Portugal (PC do B-BA)", 
         "n_ocorrencias": "0", 
         "partido": "PCdoB", 
         "uf": "BA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Antonio Brito (PSD-BA)", 
         "n_ocorrencias": "0", 
         "partido": "PSD", 
         "uf": "BA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Antonio Imbassahy (PSDB-BA)", 
@@ -3238,14 +3238,14 @@
         "n_ocorrencias": "8", 
         "partido": "PTN", 
         "uf": "BA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Bebeto (PSB-BA)", 
         "n_ocorrencias": "0", 
         "partido": "PSB", 
         "uf": "BA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Benito Gama (PTB-BA)", 
@@ -3259,14 +3259,14 @@
         "n_ocorrencias": "0", 
         "partido": "PP", 
         "uf": "BA", 
-        "voto": 1
+        "voto": -1
     }, 
     {
         "deputado": "Caetano (PT-BA)", 
         "n_ocorrencias": "8", 
         "partido": "PT", 
         "uf": "BA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Claudio Cajado (DEM-BA)", 
@@ -3280,14 +3280,14 @@
         "n_ocorrencias": "4", 
         "partido": "PCdoB", 
         "uf": "BA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Davidson Magalhães (PC do B-BA)", 
         "n_ocorrencias": "0", 
         "partido": "PCdoB", 
         "uf": "BA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Elmar Nascimento (DEM-BA)", 
@@ -3308,14 +3308,14 @@
         "n_ocorrencias": "3", 
         "partido": "PDT", 
         "uf": "BA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Fernando Torres (PSD-BA)", 
         "n_ocorrencias": "5", 
         "partido": "PSD", 
         "uf": "BA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Irmão Lazaro (PSC-BA)", 
@@ -3329,7 +3329,7 @@
         "n_ocorrencias": "4", 
         "partido": "PR", 
         "uf": "BA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "João Gualberto (PSDB-BA)", 
@@ -3343,7 +3343,7 @@
         "n_ocorrencias": "1", 
         "partido": "PT", 
         "uf": "BA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "José Carlos Aleluia (DEM-BA)", 
@@ -3357,21 +3357,21 @@
         "n_ocorrencias": "0", 
         "partido": "PR", 
         "uf": "BA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "José Nunes (PSD-BA)", 
         "n_ocorrencias": "0", 
         "partido": "PSD", 
         "uf": "BA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "José Rocha (PR-BA)", 
         "n_ocorrencias": "0", 
         "partido": "PR", 
         "uf": "BA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Jutahy Junior (PSDB-BA)", 
@@ -3399,14 +3399,14 @@
         "n_ocorrencias": "0", 
         "partido": "PP", 
         "uf": "BA", 
-        "voto": 1
+        "voto": -1
     }, 
     {
         "deputado": "Moema Gramacho (PT-BA)", 
         "n_ocorrencias": "3", 
         "partido": "PT", 
         "uf": "BA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Paulo Azi (DEM-BA)", 
@@ -3420,28 +3420,28 @@
         "n_ocorrencias": "2", 
         "partido": "PSD", 
         "uf": "BA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Roberto Britto (PP-BA)", 
         "n_ocorrencias": "3", 
         "partido": "PP", 
         "uf": "BA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Ronaldo Carletto (PP-BA)", 
         "n_ocorrencias": "3", 
         "partido": "PP", 
         "uf": "BA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Sérgio Brito (PSD-BA)", 
         "n_ocorrencias": "0", 
         "partido": "PSD", 
         "uf": "BA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Tia Eron (PRB-BA)", 
@@ -3462,14 +3462,14 @@
         "n_ocorrencias": "2", 
         "partido": "PT", 
         "uf": "BA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Waldenor Pereira (PT-BA)", 
         "n_ocorrencias": "0", 
         "partido": "PT", 
         "uf": "BA", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Adelson Barreto (PR-SE)", 
@@ -3490,7 +3490,7 @@
         "n_ocorrencias": "2", 
         "partido": "PSD", 
         "uf": "SE", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Fabio Reis (PMDB-SE)", 
@@ -3504,7 +3504,7 @@
         "n_ocorrencias": "2", 
         "partido": "PT", 
         "uf": "SE", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Jony Marcos (PRB-SE)", 
@@ -3546,7 +3546,7 @@
         "n_ocorrencias": "0", 
         "partido": "PHS", 
         "uf": "AL", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Jhc (PSB-AL)", 
@@ -3574,7 +3574,7 @@
         "n_ocorrencias": "1", 
         "partido": "PT", 
         "uf": "AL", 
-        "voto": 1
+        "voto": 0
     }, 
     {
         "deputado": "Pedro Vilela (PSDB-AL)", 
@@ -3588,6 +3588,6 @@
         "n_ocorrencias": "9", 
         "partido": "PDT", 
         "uf": "AL", 
-        "voto": 1
+        "voto": 0
     }
 ]

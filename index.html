@@ -17,6 +17,7 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 <!-- Optional theme -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 
 <!--[if IE]>
     <script type="text/javascript">
@@ -34,15 +35,15 @@
             <!-- Titulo -->
             <div class='row title'>
             <h1>Análise do Impeachment de Dilma Roussef</h1>
-            <!--<p>(por Luiz Fernando de Frias)</p>
-            </div>-->
+            <p>(por Luiz Fernando de Frias <a href='https://br.linkedin.com/in/luizfrias'><i class="fa fa-linkedin" aria-hidden="true"></i></a> <a href='https://www.facebook.com/luizfernando.defrias'><i class="fa fa-facebook" aria-hidden="true"></i></a> <a href='https://twitter.com/lfdefrias'><i class="fa fa-twitter" aria-hidden="true"></i></a>)</p>
+            </div>
             <!--  Fim do Titulo -- >
 
             <!-- Descricao -->
             <div class='row description'>
             <p>
-            Nesta página vou explorar os dados da votação do processo de impedimento da presidente Dilma Roussef, ocorrido no dia 17/04/2016.
-            Os votos dos deputados serão analisados sob a ótica de partidos, de estados e de condenações judiciais.
+            A seguir vou explorar os dados da votação do processo de impedimento da presidente Dilma Roussef, ocorrido no dia 17/04/2016.
+            Os votos dos deputados serão analisados sob a ótica de partidos, de estados e de condenações judiciais. É uma análise simples, feita com pressa e, por isso, propensa a erros. Caso ache algum, manda uma mensagem =]
             </p>
             <p>
             Em um total de 513 deputados, apenas 9 não computaram votos a favor ou contra (7 abstenções e 2 ausências) e serão ignorados na análise. O placar final foi de <b>367 deputados a favor do impeachment</b> e <b>137 contra</b>.
@@ -60,10 +61,10 @@
             Os três maiores partidos da câmara são: PMDB (67 deputados), PT (60 deputados) e PSDB (52 deputados).
             </p>
             <p>
-            Com isso, os partidos que <b>mais contrbuíram com votos a favor</b> foram <b>PMDB e PSDB</b>. O PSDB votou em sua totalidade a favor do impeachment, enquanto aproximadamente 90% do PMDB votou a favor. <b>No gráfico abaixo é possível ver a quantidade de votos a favor de cada partido.</b>
+            Os partidos que <b>mais contrbuíram com votos a favor do impeachment</b> foram <b>PMDB e PSDB</b>. O PSDB votou em sua totalidade a favor da saída da presidente, enquanto aproximadamente 90% do PMDB votou a favor. <b>No gráfico abaixo é possível ver a quantidade de votos a favor de cada partido.</b>
             </p>
             <p>
-            Muitos partidos foram unânimes a favor do impeachment, mas o contrário pouco ocorreu. Apenas <b>PCdoB, PSON e PT foram unânimes votando contra</b>. O PDT apresentou maioria <b>contra o impeachment</b> (12 votos contra, 6 a favor e 1 abstenção).
+            Muitos partidos foram unânimes a favor do impeachment, mas o contrário pouco ocorreu. Apenas <b>PCdoB, PSON e PT foram unânimes votando contra</b>.
             </p>
             </div>
             <div class='row' id='hist-partidos'>
@@ -75,7 +76,7 @@
             </p>
             <p>
             <b>O impeachment foi maioria em todas as regiões do Brasil</b>. As regiões Centro-Oeste, Sudeste e Sul contaram com cerca de 80% dos votos a favor. 
-            A única região que aparentou estar divida foi a região Nordeste, com pouco mais da metade apoiando o impedimento da presidente.
+            A única região que aparentou estar divida foi a região Nordeste, com pouco mais da metade apoiando o impedimento da presidente. Isso é reflexo direto dos votos da Bahia e do Ceará, que parecem ser os mais fiéis ao governo. 
             </p>
             </div>
             <div class='row'>
@@ -102,7 +103,107 @@
             </div>
             <div class='row' id='treemap-contra'>
             </div>
+            <div class='row'>
+                <div class='col-lg-6 description'>
+                <p>
+                E será que os deputados votaram de acordo com o que pensam seus eleitores? Não consegui os dados por estado, somente <a href='http://media.folha.uol.com.br/datafolha/2016/04/11/opiniao_sobre_as_manifestacoes.pdf' target='_blank'>essa pesquisa</a> do Datafolha, que mostra por região. Ao lado podemos ver a tabela que mostra o percentual dos cidadãos favoráveis ao impeachment e o percentual de votos pela saída de Dilma no processo que correu na câmara.
+                </p>
+                <p>
+                A única discrepância fica por conta da região Norte. Pela pesquisa os eleitores pareciam dividos, mas a votação mostra que 70% dos deputados foram a favor da saída de Dilma.
+                </p>
+                <p>
+                Com a pesquisa por estado a análise ficaria mais interessante, poderíamos medir um índice de correlação, fazer um scatter, ... Se alguém encontrar por favor me avise.
+                </p>
+                </div>
+                <div class='col-lg-6 description'>
+                <table class="tg">
+                  <tr>
+                    <th class="tg-yw4l"></th>
+                    <th class="tg-031e">Pesquisa Datafolha</th>
+                    <th class="tg-yw4l">Resultado da votação</th>
+                  </tr>
+                  <tr>
+                    <td class="tg-yw4l">Norte</td>
+                    <td class="tg-031e">58%</td>
+                    <td class="tg-yw4l">70%</td>
+                  </tr>
+                  <tr>
+                    <td class="tg-yw4l">Nordeste</td>
+                    <td class="tg-yw4l">53%</td>
+                    <td class="tg-yw4l">57%</td>
+                  </tr>
+                  <tr>
+                    <td class="tg-yw4l">Centro-Oeste</td>
+                    <td class="tg-yw4l">71%</td>
+                    <td class="tg-yw4l">83%</td>
+                  </tr>
+                  <tr>
+                    <td class="tg-yw4l">Sudeste</td>
+                    <td class="tg-yw4l">73%</td>
+                    <td class="tg-yw4l">80%</td>
+                  </tr>
+                  <tr>
+                    <td class="tg-yw4l">Sul</td>
+                    <td class="tg-yw4l">71%</td>
+                    <td class="tg-yw4l">80%</td>
+                  </tr>
+                </table>
+                </div>
+            </div>
             <!-- -->
+            <div class='row'>
+                <div class='col-lg-6 description'>
+                    <p>
+                    Um dado interessante disponibilizado pela Agência Lupa é o número de ocorrências criminais por deputado. Na tabela ao lado, pode-se perceber que o total de deputados <strike>postulantes a canonização</strike> sem ocorrências criminais registradas é de 233+85=318 deputados, enquanto o número de deputados com alguma ocorrência criminal é de 186.
+                    O números de votantes a favor do impedimento no caso dos deputados sem ocorrências é de 233/(233+85) = 73%. No grupo dos deputados que sofrem algum processo criminal, a proporção é de 134/(134+52)=72%.
+                    </p>
+                    <p>
+                    Assim, a proporção de votos a favor ou contra o impeachment se mantêm em ambos os grupos, evidenciando a coerência entre os pares, independentemente de desvio de conduta. 
+                    </p>
+                </div>
+                <div class='col-lg-6 description'>
+                    <table id='confusion' class="tg">
+                      <tr>
+                        <th class="tg-yw4l"></th>
+                        <th class="tg-031e">Votou a favor</th>
+                        <th class="tg-yw4l">Votou contra</th>
+                      </tr>
+                      <tr>
+                        <td class="tg-yzt1">Sem ocorrências criminais</td>
+                        <td class="tg-031e">233</td>
+                        <td class="tg-yw4l">85</td>
+                      </tr>
+                      <tr>
+                        <td class="tg-yzt1">Com ocorrências criminais</td>
+                        <td class="tg-yw4l">134</td>
+                        <td class="tg-yw4l">52</td>
+                      </tr>
+                    </table>
+                </div>
+            </div>
+            <div class="row description">
+            <p>
+            Para encerrar, vamos descobrir as regiões com o maior número de deputados com processos criminais.
+            O estado do <b>Sergipe possui 100%</b> dos deputados com algum processo. Amazonas, Santa Catarina, Distrito Federal, Amapá e Alagoas também merecem destaque pelo alto número de deputados com problemas na justiça.
+            O separatista Rio Grande do Sul apresenta média de deputados encrencados superior a da região Nordeste e Norte.
+            </p>
+            <p>
+            Na média, as regiões Sul e Centro-Oeste são as regiões com maiores problemas judiciais. As demais regiões estão tecnicamente empatadas, com metade de seus representantes enfrentando a justiça.
+            </p>
+            </div>
+            <div class='row'>
+                <div class='col-lg-6' id='map-corr-estados-container'></div>
+                <div class='col-lg-6' id='map-corr-regiao-container'></div>
+            </div>
+            <ht/>
+
+            <div class='row description'>
+            <p><b>Conclusão</b></p>
+            <p>
+            Pelos discursos de ontem* e pelos últimos dois mapas apresentados, concluímos que a situação é triste.
+            </p>
+            <p class='text-muted'>* alguém sabe onde posso encontrar esses discursos transcritos?</p>
+            </div>
 
             <!-- Fim da pagina -->
             <hr/>

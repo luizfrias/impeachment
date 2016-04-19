@@ -43,6 +43,37 @@ var Data = {
         self.init_voto_por_estado();
         self.init_voto_por_regiao();
         self.init_voto_por_partido();
+        self.init_corruptos();
+    },
+    init_corruptos: function() {
+        // Estado
+        corruptos_por_estado =  _.groupBy(votos, function(d){return d.uf});
+        corruptos_por_estado = _.mapObject(corruptos_por_estado, function(val, key){
+            return _.reduce(val, function(memo, obj){
+                n_ocorrencias = parseInt(obj.n_ocorrencias, 10);
+                if (n_ocorrencias)
+                    return memo + 1;
+                return memo;
+            }, 0);
+        });
+        corruptos_por_estado_normalizado = _.mapObject(corruptos_por_estado, function(val, key){
+            return val/max_votos_por_estado[key];
+        });
+        // Regiao
+        corruptos_por_regiao = {
+            'NORTE': 0,
+            'NORDESTE': 0,
+            'CENTRO-OESTE': 0,
+            'SUDESTE': 0,
+            'SUL': 0
+        }
+        _.each(corruptos_por_estado, function(n_corruptos, estado) {
+            var regiao = ESTADOS_POR_SIGLA[estado][0][2];
+            corruptos_por_regiao[regiao] = corruptos_por_regiao[regiao] + n_corruptos;
+        });
+        corruptos_por_regiao_normalizado = _.mapObject(corruptos_por_regiao, function(val, key){
+            return val/max_regiao[key];
+        });
     },
     init_voto_por_partido: function() {
         votos_por_partido = _.groupBy(votos, function(d){return d.partido});
@@ -113,7 +144,7 @@ var Data = {
             var regiao = ESTADOS_POR_SIGLA[estado][0][2];
             votos_por_regiao[regiao] = votos_por_regiao[regiao] + nvotos;
         });
-        var max_regiao = {
+        max_regiao = {
             'NORTE': 57,
             'NORDESTE': 159,
             'CENTRO-OESTE': 41,
@@ -136,14 +167,14 @@ var Map = {
         var quantize = d3.scale.quantile()
                          .domain([0, 1])
                          .range(d3.range(9));
-        return "q" + quantize(votos_por_estado_normalizado[uf]) + "-9"; 
+        return "q" + quantize(votos_por_estado_normalizado[uf]) + "-9 state"; 
     },
     get_regiao_fill: function(d, i) {
         var regiao = d.properties.region;
         var quantize = d3.scale.quantile()
                          .domain([0, 1])
                          .range(d3.range(9));
-        return "q" + quantize(votos_por_regiao_normalizado[regiao]) + "-9"; 
+        return "q" + quantize(votos_por_regiao_normalizado[regiao]) + "-9 state"; 
     },
     draw_states: function() {
         var self = this;
@@ -180,7 +211,7 @@ var Map = {
             .data(topojson.feature(map_data,map_data.objects.states).features).enter().append('path')
             .attr('d',path)
             .attr('pointer-events', 'all')
-            .attr('class', self.get_state_fill)
+            .attr('class', self.get_state_fill )
             .call(tip)
             .on('mouseover', tip.show)
             .on('mouseout', tip.hide)
@@ -458,6 +489,115 @@ var Hist = {
     },
 }
 
+var PESQUISA = {
+    'NORTE': 58,
+    'NORDESTE': 53,
+    'CENTRO-OESTE': 71, 
+    'SUDESTE': 73,
+    'SUL': 71
+}
+
+var CorruptionMap = {
+    get_state_fill: function(d, i) {
+        var estado = d.properties.name;
+        var uf = ESTADOS[estado][1];
+        var quantize = d3.scale.quantile()
+                         .domain([0, 1])
+                         .range(d3.range(9));
+        return "q" + quantize(corruptos_por_estado_normalizado[uf]) + "-9 state"; 
+    },
+    get_regiao_fill: function(d, i) {
+        var regiao = d.properties.region;
+        var quantize = d3.scale.quantile()
+                         .domain([0, 1])
+                         .range(d3.range(9));
+        return "q" + quantize(corruptos_por_regiao_normalizado[regiao]) + "-9 state"; 
+    },
+    draw_states: function() {
+        var self = this;
+        var height = 400;
+        var width = 500;
+
+        var tip = d3.tip()
+          .attr('class', 'd3-tip')
+          .offset([-10, 0])
+          .html(function(d, i) {
+            var estado = d.properties.name;
+            var uf = ESTADOS[estado][1];
+            var name = ESTADOS[estado][0];
+            var percent = Number(corruptos_por_estado_normalizado[uf]*100).toFixed(2);
+            return "<strong>" + name + "</strong>: " +  "<span>" + percent + "% com algum processo criminal</span>";
+          })
+
+        var projection = d3.geo.albers()
+          .center([-55,-10])
+          .parallels( [12,-28])
+          .scale(500)
+          .rotate([50,-5,-5])
+          .translate([width/2 - 470,height/2 -40]);
+
+        var path = d3.geo.path().projection(projection);
+
+        var svg = d3.select("#map-corr-estados-container").append("svg")
+                    .attr("width", width)
+                    .attr("height", height)
+                    .attr('class', 'Reds');
+
+        d3.json("resources/br-states.json", function(error, map_data)  {
+        svg.selectAll('path')
+            .data(topojson.feature(map_data,map_data.objects.states).features).enter().append('path')
+            .attr('d',path)
+            .attr('pointer-events', 'all')
+            .attr('class', self.get_state_fill )
+            .call(tip)
+            .on('mouseover', tip.show)
+            .on('mouseout', tip.hide)
+            
+        });
+    },
+    draw_regioes: function() {
+        var self = this;
+        var height = 400;
+        var width = 500;
+
+        var tip = d3.tip()
+          .attr('class', 'd3-tip')
+          .offset([-10, 0])
+          .html(function(d, i) {
+            var estado = d.properties.name;
+            var uf = ESTADOS[estado][1];
+            var regiao = ESTADOS[estado][2];
+            var name = REGIOES[regiao];
+            var percent = Number(corruptos_por_regiao_normalizado[regiao]*100).toFixed(2);
+            return "<strong>" + name + "</strong>: " +  "<span>" + percent + "% com algum processo criminal</span>";
+          })
+
+        var projection = d3.geo.albers()
+          .center([-55,-10])
+          .parallels( [12,-28])
+          .scale(500)
+          .rotate([50,-5,-5])
+          .translate([width/2 - 470,height/2 -40]);
+
+        var path = d3.geo.path().projection(projection);
+
+        var svg = d3.select("#map-corr-regiao-container").append("svg")
+                    .attr("width", width)
+                    .attr("height", height)
+                    .attr('class', 'Reds');
+
+        d3.json("resources/br-states.json", function(error, map_data)  {
+        svg.selectAll('path')
+            .data(topojson.feature(map_data,map_data.objects.states).features).enter().append('path')
+            .attr('d',path)
+            .attr('pointer-events', 'all')
+            .attr('class', self.get_regiao_fill)
+            .call(tip)
+            .on('mouseover', tip.show)
+            .on('mouseout', tip.hide)
+        });
+    },
+};
 
 $(document).ready(function() {
 
@@ -468,5 +608,7 @@ $(document).ready(function() {
     Map.draw_states(); Map.draw_regioes();
 
     TreeMap.init(); TreeMap.draw_votos_favor(); TreeMap.draw_votos_contra();
+
+    CorruptionMap.draw_states(); CorruptionMap.draw_regioes();
 
 });
